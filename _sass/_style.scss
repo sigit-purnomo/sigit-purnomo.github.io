@@ -11,9 +11,13 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
-    height: 100%;
+    font-family: "Lato";
+    font-weight: 300;
+    height: 90%;
 }
+// b{
+//     font-weight: 700;
+// }
 a {
     text-decoration: none;
     color: $accent;
@@ -28,12 +32,41 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+// @font-face {
+//     font-family: "Lato";
+//     src: url("https://fonts.googleapis.com/css?family=Lato") format("truetype");
+//     font-weight: normal;
+//     font-style: normal;
+//   }
+  
+//   @font-face {
+//     font-family: "Lato";
+//     src: url("https://fonts.googleapis.com/css?family=Lato") format("truetype");
+//     font-weight: normal;
+//     font-style: italic;
+//   }
+  
+//   @font-face {
+//     font-family: "Lato";
+//     src: url("https://fonts.googleapis.com/css?family=Lato") format("truetype");
+//     font-weight: bold;
+//     font-style: normal;
+//   }
+  
+//   @font-face {
+//     font-family: "DroidSerif";
+//     src: url("DroidSerif-BoldItalic-webfont.ttf") format("truetype");
+//     font-weight: bold;
+//     font-style: italic;
+//   }
+
+
 /*
  * Navbar
  */
 
 #author-name {
-    font-size: 30px;
+    font-size: 28px;
     color: #272727;
     display: inline-block;
 }
@@ -41,6 +74,7 @@ hr {
     padding: 50px 0 50px 0;
 }
 .navbar-ul {
+    font-size: 16px;
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
@@ -65,20 +99,17 @@ hr {
 /* Divs */
 
 .container {
+    font-size: 16px;
+    line-height: 150%;
     max-width: $max-width;
     margin: auto;
 }
 .wrapper {
     min-height: 100%;
 }
-
-/* Institute Image */
-
-#ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
+.just-comments {
+    max-width: $max-width;
+    margin: auto;
 }
 
 /* Mobile */
@@ -87,6 +118,11 @@ hr {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+    }
+
+    .just-comments {
+        max-width: $med-width;
+        margin: auto;
     }
 }
 
@@ -97,35 +133,26 @@ hr {
     .navbar-ul {
         margin-top: 5px;
     }
+
+    .just-comments {
+        max-width: 83%;
+    }
 }
 
-@media (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
-	#author-name {
-		width: 100%;
-		float: none;
-	}
-	#navlist {
-		padding: 10px 0 10px 0;
-		margin: 0;
-		display: block;
-		float: none;
-		text-align: center;
-		width: 100%;
-	}
-	#navlist li.alignable {
-		display: inline-block;
-	}
-	#navlist li.pull-left {
-		float: none;
-	}
-	#navlist li.nav-list {
-		margin: 0;
-	}
+@media (max-width: 580px) {
+    #author-name {
+        display: inline-block;
+    }
 }
+
+table, th, td {
+    // border-collapse: collapse;
+    border: none;
+    background-color: white;
+    text-align: left;
+    vertical-align: top;
+    border-spacing: 10px;
+  }
 
 @import "typography";
-@import "tables";
+// @import "tables";
