@@ -3,7 +3,9 @@ url: "https://sigit-purnomo.github.io"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 tracking_id: #
 
@@ -17,7 +19,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "about"
+   link: "#"
  - name: "Resume"
    link: "#"
  - name: "Contact"
