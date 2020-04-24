@@ -1,6 +1,6 @@
 title: Sigit Purnomo
 url: "https://sigit-purnomo.github.io"
-baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "about"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
