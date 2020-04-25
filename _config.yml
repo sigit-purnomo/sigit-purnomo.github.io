@@ -289,15 +289,16 @@ defaults:
   - scope:
       path: "_pages/about.md"
       type: pages
+      permalink: /about/
     values:
       layout: single
       author_profile: true
-    permalink: /about/
   - scope:
       path: "_pages/publication.md"
       type: pages
+      permalink: /publication/
     values:
       layout: single
       author_profile: true
-    permalink: /publication/
+    
 
