@@ -17,3 +17,11 @@ As a lecturer, one of my task is to publish article from my reseacrh. Here some 
 #### 2018
 
 #### 2017
+
+#### 2016
+
+#### 2015
+1. A study of disaster situation management using mobile technology in Yogyakarta
+   2015 International Conference on Data and Software Engineering (ICoDSE)
+
+
