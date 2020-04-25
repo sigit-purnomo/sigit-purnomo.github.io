@@ -287,11 +287,17 @@ defaults:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "_pages/about.md"
       type: pages
     values:
       layout: single
       author_profile: true
     permalink: /about/
+  - scope:
+      path: "_pages/publication.md"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
     permalink: /publication/
 
