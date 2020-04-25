@@ -8,6 +8,8 @@ sitemap: true
 modified: 2020-04-25
 ---
 
+As a lecturer, one of my task is to publish article from my reseacrh. Here some of my publication in collaboration with my colleague and students.
+
 #### 2020
 
 #### 2019
