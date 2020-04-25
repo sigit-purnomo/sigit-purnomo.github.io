@@ -270,13 +270,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-collections:
-  posts:
-    output: true
-    permalink: /:collection/:name
-
-
+    
 
 # Defaults
 defaults:
@@ -292,7 +286,7 @@ defaults:
       share: true
       related: true
       classes: wide
-      collection: posts
+
 
 defaults:
   # _pages
