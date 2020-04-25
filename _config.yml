@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sigit Purnomo"
+title                    : "Personal Site"
 title_separator          : "|"
 subtitle                 : "Reborn this way!"
-name                     : "Personal Website"
-description              : "Reborn this way!"
+name                     : "Sigit Purnomo"
+description              : "Sigit Purnomo Personal Site | Reborn this way!"
 url                      : "https://sigit-purnomo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sigit-purnomo/sigit-purnomo.github.io"
