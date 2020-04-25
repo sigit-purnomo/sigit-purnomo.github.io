@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Sigit Purnomo"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Reborn this way!"
 name                     : "Sigit Purnomo"
 description              : "Reborn this way!"
 url                      : "https://sigit-purnomo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sigit-purnomo/sigit-purnomo.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sigit Purnomo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-picture.jpeg"
   bio              : "Senior Lecturer at Informatics Department, Universitas Atma Jaya Yogyakarta"
   location         : "Yogyakarta, Indonesia"
   email            :
