@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=RalnBvQAAAAJ&hl=en"
       
 # Site Footer
