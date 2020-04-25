@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://sigit-purnomo.github.io/#/
+    url: https://sigit-purnomo.github.io/about/
+  - title: "Publication"
+    url: https://sigit-purnomo.github.io/publication/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
