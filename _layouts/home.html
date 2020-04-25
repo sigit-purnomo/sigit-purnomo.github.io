@@ -14,8 +14,7 @@ layout: archive
 {% endif %}
 
 {% for post in posts %}
-  {% include archive-single.html %}
-  {{ post.excerpt }}
+  {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
 
 {% include paginator.html %}
