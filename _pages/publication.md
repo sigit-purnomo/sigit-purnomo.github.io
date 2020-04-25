@@ -25,7 +25,10 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
 2. *A Study of Text Classification for Indonesian News Article*<br />
    Grelly Lucia Yovellia Londo, Dwiky Hutomo Kartawijaya, Hesti Tri Ivariyani, **Yohanes Sigit Purnomo WP**, Aryasuta P Muhammad Rafi, Dipo Ariyandi <br />
    **2019 International Conference of Artificial Intelligence and Information Technology (ICAIIT)** - DOI: [10.1109/ICAIIT.2019.8834611](https://doi.org/10.1109/ICAIIT.2019.8834611)
-3. *A study of disaster situation management using mobile technology in Yogyakarta* <br />
+3. *Information technology governance assessment in universitas atma jaya yogyakarta using cobit 5 framework* <br />
+   Gabriella Sabatini, Djoko Budiyanto Setyohadi, **Yohanes Sigit Purnomo W.P.** <br />
+   **2017 4th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)** - DOI: [10.1109/EECSI.2017.8239161](https://doi.org/10.1109/EECSI.2017.8239161)
+4. *A study of disaster situation management using mobile technology in Yogyakarta* <br />
    **Yohanes Sigit Purnomo W.P.**; Theresia Devi Indriasari ; Kusworo Anindito ; Irvan <br />
    **2015 International Conference on Data and Software Engineering (ICoDSE)** -  DOI: [10.1109/ICODSE.2015.7436967](https://doi.org/10.1109/ICODSE.2015.7436967)
    
