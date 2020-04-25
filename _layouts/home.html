@@ -1,14 +1,11 @@
 ---
-layout: home
+layout: achieve
 ---
 
 {{ content }}
 
-<!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>-->
-Hi there!
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-I am a senior lecturer from Informatics Department, Universitas Atma Jaya Yogyakarta, Indonesia.
-Now, I am also a P.h.D student at Faculty of Information and Communication TEchnology, Universiti Teknikal Malaysia Melaka. 
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
