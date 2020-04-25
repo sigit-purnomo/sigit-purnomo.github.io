@@ -24,5 +24,5 @@ The fundamental courses I taught in the Informatics Department are related to to
 
 #### Fellowship Experiences
 In 2012 I got a valuable opportunity from the [United Board for Christian Higher Education in Asia](https://unitedboard.org) as a fellow. This program gives me the opportunity to stay for one semester at one university in the US and one semester at one university in Asia. On placement in the US, I had the opportunity to stay at [Baylor University](https://baylor.edu) in Waco, Texas, from January to May 2013. While in placement in Asia, I stayed at [Yonsei University](https://yonsei.ac.kr) in Sinchon, Seoul, from March to May 2014. This program provides an opportunity for me to learn many things while there, both in terms of academics and ICT governance at the university. <br />
-![My first placement at Baylor University](https://github.com/sigit-purnomo/sigit-purnomo.github.io/blob/master/assets/images/01-slide-content-5-1024x640.png "My first placement at Baylor University") <br />
-![My visit to Yonsei University International Campus in Incheon](https://github.com/sigit-purnomo/sigit-purnomo.github.io/blob/master/assets/images/01-slide-content-11-1024x640.png "My visit to Yonsei University International Campus in Incheon")
+![My first placement at Baylor University](/assets/images/01-slide-content-5-1024x640.png "My first placement at Baylor University") <br />
+![My visit to Yonsei University International Campus in Incheon](/assets/images/01-slide-content-11-1024x640.png "My visit to Yonsei University International Campus in Incheon")
