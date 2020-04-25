@@ -13,6 +13,8 @@ Hello world!
 My name is Sigit Purnomo. I am a PhD student at Faculty of Information and Coomunication Technology [(FTMK)](http://ftmk.utem.edu.my/web/) at Universiti Teknikal Malaysia Melaka. I am also a senior lecturer at Informatics Department, Universitas Atma Jaya Yogyakarta. 
 
 #### Education
+1. Master of Computer Science (M.Kom.) - Faculty of Computer Science, University of Indonesia, Jakarta, Indonesia
+2. Bachelor of Engineering (S.T.) -  Informatics Department, Faculty of Industrial Technology, Universitas Atma Jaya Yogyakarta, Yogyakarta, Indonesia
 
 #### Research Interests
 
