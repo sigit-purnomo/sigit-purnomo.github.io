@@ -11,7 +11,10 @@ modified: 2020-04-25
 As a lecturer, one of my tasks is to publish articles on journals or conferences based on my research. Here some of my publications in collaboration with my colleague and students.
 
 #### International Journal
-1. *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
+1. *Assessment of the Readiness of Micro, Small and Medium Enterprises in Using E-Money Using the Unified Theory of Acceptance and Use of Technology (UTAUT) Method* <br />
+   Hendro Gunawan, Benyamin Langgu Sinaga, **Sigit Purnomo W.P.** <br />
+   **Procedia Computer Science** - DOI: [10.1016/j.procs.2019.11.129](https://doi.org/10.1016/j.procs.2019.11.129)
+2. *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
    **Yohanes Sigit Purnomo W.P.**, Theresia Devi Indriasari, Kusworo Anindito, Yoshua Andrean, Jaka Galih Prasetyo <br />
    **International Journal of Interactive Mobile Technologies (iJIM)** - LINK: [PDF](https://online-journals.org/index.php/i-jim/article/view/10172/5891)
 
