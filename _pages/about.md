@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
-excerpt: "ABout Me"
+excerpt: "About Me"
 layout: single
 author_profile: true
 sitemap: true
@@ -9,10 +9,10 @@ modified: 2020-04-25
 ---
 
 
-### Education
+#### Education
 
-### Research Interests
+#### Research Interests
 
-### Teaching Experiences
+#### Teaching Experiences
 
-### Fellowship Experiences
+#### Fellowship Experiences
