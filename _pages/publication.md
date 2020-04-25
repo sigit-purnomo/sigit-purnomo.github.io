@@ -22,6 +22,7 @@ As a lecturer, one of my task is to publish article from my reseacrh. Here some 
 
 #### 2015
 1. A study of disaster situation management using mobile technology in Yogyakarta <br />
-   2015 International Conference on Data and Software Engineering (ICoDSE)
+   **Yohanes Sigit Purnomo WP**; Theresia Devi Indriasari ; Kusworo Anindito ; Irvan 
+   2015 International Conference on Data and Software Engineering (ICoDSE) -  DOI: [10.1109/ICODSE.2015.7436967](https://doi.org/10.1109/ICODSE.2015.7436967)
 
 
