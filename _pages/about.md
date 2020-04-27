@@ -3,6 +3,8 @@ title: "About Me"
 permalink: /about/
 excerpt: "About Me, Education, Research Interests, Teaching Experiences, Fellowship Experiences, and Awards"
 layout: single
+header:
+  image: /assets/images/rsz_resume-bro-pana.png
 author_profile: true
 sitemap: true
 modified: 2020-04-25
