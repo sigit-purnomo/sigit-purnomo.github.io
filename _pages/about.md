@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
-excerpt: "About Me"
+excerpt: "About Me, Education, Research Interests, Teaching Experiences, Fellowship Experiences, and Awards"
 layout: single
 author_profile: true
 sitemap: true
