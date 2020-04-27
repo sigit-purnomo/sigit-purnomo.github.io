@@ -297,5 +297,6 @@ defaults:
       share: true
       classes: wide
 
-
+header:
+  overlay_image: /assets/images/01-slide-content-5-1024x640.png
 
