@@ -1,7 +1,7 @@
 ---
 title: "Publication"
 permalink: /publication/
-excerpt: "Publication"
+excerpt: "Publication in international journals, international conferences, Indonesian journals, and Indonesian seminars or conferences"
 layout: single
 author_profile: true
 sitemap: true
