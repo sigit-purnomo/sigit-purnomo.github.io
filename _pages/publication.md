@@ -47,7 +47,7 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
    **Jurnal Terapan Teknologi Informasi 1 (2), 99-108** - DOI: [10.21460/jutei.2017.12.21](https://doi.org/10.21460/jutei.2017.12.21)
 5. *Perancangan Antarmuka Online Course Pada Perangkat Mobile Menggunakan Teori Usability* <br />
    Elia Zakharia, Djoko Budiyanto Setyohadi, **Y Sigit Purnomo WP**<br />
-   **Jurnal Informatika 12 (1)** 
+   **Jurnal Informatika 12 (1)** - LINK: [Article](http://garuda.ristekbrin.go.id/documents/detail/876465)
 6. *Pengembangan Aplikasi Layanan Informasi Wisata Budaya Yogyakarta Berbasis Mobile Web dan Location-Based Service Secara Kolaboratif* <br />
    Kusworo Anindito, Eddy Julianto, **Yohanes Sigit Purnomo WP**<br />
    **Jurnal Buana Informatika 6 (1)** - DOI: [10.24002/jbi.v6i1.397](https://doi.org/10.24002/jbi.v6i1.397)
