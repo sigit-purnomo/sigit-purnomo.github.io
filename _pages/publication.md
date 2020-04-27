@@ -3,6 +3,8 @@ title: "Publication"
 permalink: /publication/
 excerpt: "Publication in international journals, international conferences, Indonesian journals, and Indonesian seminars or conferences"
 layout: single
+header:
+   image: /assets/images/wall post-amico.png
 author_profile: true
 sitemap: true
 modified: 2020-04-25
