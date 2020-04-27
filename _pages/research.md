@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-excerpt: "Research"
+excerpt: "Research about omputational journalism using natural language processing or machine learning or deep learning technology, disaster management, social network analysis, information technology management, and platform-based application development"
 layout: single
 author_profile: true
 sitemap: true
