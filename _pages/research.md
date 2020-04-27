@@ -4,7 +4,7 @@ permalink: /research/
 excerpt: "Research about omputational journalism using natural language processing or machine learning or deep learning technology, disaster management, social network analysis, information technology management, and platform-based application development"
 layout: single
 header: 
-  image: /assets/images/rsz_browser_stats-pana.png
+  image: /assets/images/rsz_data_report-pana.png
 author_profile: true
 sitemap: true
 modified: 2020-04-25
