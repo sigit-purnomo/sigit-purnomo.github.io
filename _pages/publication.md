@@ -16,7 +16,7 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
    **Procedia Computer Science 161, 316-323** - DOI: [10.1016/j.procs.2019.11.129](https://doi.org/10.1016/j.procs.2019.11.129)
 2. *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
    **Yohanes Sigit Purnomo W.P.**, Theresia Devi Indriasari, Kusworo Anindito, Yoshua Andrean, Jaka Galih Prasetyo <br />
-   **International Journal of Interactive Mobile Technologies (iJIM) 13 (09), 52-65** - LINK: [Article](https://online-journals.org/index.php/i-jim/article/view/10172/5891)
+   **International Journal of Interactive Mobile Technologies (iJIM) 13 (09), 52-65** - DOI: [10.3991/ijim.v13i09.10172](https://doi.org/10.3991/ijim.v13i09.10172)
 
 #### International Conference
 1. *The Classification of the Movie Genre based on Synopsis of the Indonesian Film*<br />
