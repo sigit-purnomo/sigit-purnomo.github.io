@@ -105,6 +105,12 @@ author:
     - label: "Website (ID)"
       icon: "fas fa-fw fa-link"
       url: "https://sigitpurnomo.id"
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=RalnBvQAAAAJ&hl=en"
+    - label: "Orcid"
+      icon: "ai ai-orcid"
+      url: "http://orcid.org/0000-0002-3079-6842"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sigitpurnomo"
@@ -117,9 +123,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=RalnBvQAAAAJ&hl=en"
+
       
 # Site Footer
 footer:
