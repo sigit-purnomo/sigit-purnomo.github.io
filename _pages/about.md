@@ -5,7 +5,8 @@ excerpt: "About Me, Education, Research Interests, Teaching Experiences, Fellows
 layout: single
 header:
   overlay_image: /assets/images/rsz_img_20200312_192617.jpg
-  overlay_color: "#FF725E"
+  overlay_filter: 0.5
+  show_overlay_excerpt: false
 author_profile: true
 sitemap: true
 modified: 2020-04-25
