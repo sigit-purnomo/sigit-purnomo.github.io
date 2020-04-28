@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-excerpt: "Research about omputational journalism using natural language processing or machine learning or deep learning technology, disaster management, social network analysis, information technology management, and platform-based application development"
+excerpt: "Research about omputational journalism using natural language processing, machine learning, or deep learning technology, disaster management, social network analysis, information technology management, and platform-based application development"
 layout: single
 header: 
   image: /assets/images/rsz_data_report-pana.png
@@ -10,7 +10,7 @@ sitemap: true
 modified: 2020-04-25
 ---
 
-As a lecturer, one of my tasks is doing research. My current research interest is computational journalism using natural language processing or machine learning or deep learning technology. My previous researches were related to disaster management, social network analysis, information technology management, and platform-based application development.
+As a lecturer, one of my tasks is doing research. My current research interest is **computational journalism** using *natural language processing, machine learning, or deep learning technology*. My previous researches were related to **disaster management, social network analysis, information technology management, and platform-based application development**.
 
 |  Year       | Research Title | Source of Funding |
 | :---------: | -------------- | ----------------- |
