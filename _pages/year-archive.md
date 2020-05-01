@@ -6,4 +6,5 @@ layout: posts
 header: 
   image: /assets/images/rsz_1blog_post-amico.png
 author_profile: true
+entries_layout: grid
 ---
