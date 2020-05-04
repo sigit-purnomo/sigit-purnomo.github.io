@@ -7,7 +7,7 @@ header:
    image: /assets/images/rsz_browser_stats-pana1.png
 author_profile: true
 sitemap: true
-modified: 2020-04-25
+modified: 2020-05-04
 ---
 
 As a lecturer, one of my tasks is to publish articles on journals or conferences based on my research. Here some of my publications in collaboration with my colleague and students.
