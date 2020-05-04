@@ -35,25 +35,28 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
    **2015 International Conference on Data and Software Engineering (ICoDSE), 31-36** -  DOI: [10.1109/ICODSE.2015.7436967](https://doi.org/10.1109/ICODSE.2015.7436967)
    
 #### Indonesian Journal (Article in Indonesian Language)
-1. **2019** - *Klasifikasi Ujaran Kebencian pada Cuitan dalam Bahasa Indonesia* <br />
+1. **2020** - *Pembangunan Aplikasi Identifikasi Typographical Error Dokumen Berbahasa Indonesia Menggunakan Algoritma Jaro-Winkler Distance* <br />
+   Grelly Lucia Yovellia Londo, **Yohanes Sigit Purnomo W.P.**, Martinus Maslim <br />
+   **JUITA : Jurnal Informatika 8 (1), 19-27** - DOI: [10.30595/juita.v8i1.6344](https://doi.org/10.30595/juita.v8i1.6344)
+2. **2019** - *Klasifikasi Ujaran Kebencian pada Cuitan dalam Bahasa Indonesia* <br />
    Kevin Antariksa, **Y Sigit Purnomo WP**, Ernawati Ernawati<br />
    **Jurnal Buana Informatika 10 (2), 164-171** - DOI: [10.24002/jbi.v10i2.2451](https://doi.org/10.24002/jbi.v10i2.2451)
-2. **2019** - *Pembangunan Aplikasi Alat Bantu Proses Anotasi Menggunakan Progressive Web Apps* <br />
+3. **2019** - *Pembangunan Aplikasi Alat Bantu Proses Anotasi Menggunakan Progressive Web Apps* <br />
    I Gede Bagus Artha Suryawan, **Y. Sigit Purnomo WP**, Ernawati Ernawati <br />
    **Jurnal Buana Informatika 10 (2), 144-152** - DOI: [10.24002/jbi.v10i2.2380](https://doi.org/10.24002/jbi.v10i2.2380)
-3. **2018** - *Analisis Kesuksesan Sistem Informasi Kemahasiswaan (SIKMA) dengan Pendekatan Model DeLone dan McLean* <br />
+4. **2018** - *Analisis Kesuksesan Sistem Informasi Kemahasiswaan (SIKMA) dengan Pendekatan Model DeLone dan McLean* <br />
    Flourensia Sapty Rahayu, Robert Apriliyanto, **Yohanes Sigit Purnomo Wuryo Putro** <br />
    **Indonesian Journal of Information Systems 1 (1), 34-46** - DOI: [10.24002/ijis.v1i1.1704](https://doi.org/10.24002/ijis.v1i1.1704)
-4. **2017** - *Analisis Manfaat Sistem Informasi Penerimaan Mahasiswa Baru dengan Metode IT Balanced Scorecard* <br />
+5. **2017** - *Analisis Manfaat Sistem Informasi Penerimaan Mahasiswa Baru dengan Metode IT Balanced Scorecard* <br />
    Flourensia Sapty Rahayu, Rangga Deputra Ginantaka, **Y Sigit Purnomo WP**<br />
    **Jurnal Terapan Teknologi Informasi 1 (2), 99-108** - DOI: [10.21460/jutei.2017.12.21](https://doi.org/10.21460/jutei.2017.12.21)
-5. **2016** - *Perancangan Antarmuka Online Course Pada Perangkat Mobile Menggunakan Teori Usability* <br />
+6. **2016** - *Perancangan Antarmuka Online Course Pada Perangkat Mobile Menggunakan Teori Usability* <br />
    Elia Zakharia, Djoko Budiyanto Setyohadi, **Y Sigit Purnomo WP**<br />
    **Jurnal Informatika 12 (1)** - LINK: [Article](http://garuda.ristekbrin.go.id/documents/detail/876465)
-6. **2015** - *Pengembangan Aplikasi Layanan Informasi Wisata Budaya Yogyakarta Berbasis Mobile Web dan Location-Based Service Secara Kolaboratif* <br />
+7. **2015** - *Pengembangan Aplikasi Layanan Informasi Wisata Budaya Yogyakarta Berbasis Mobile Web dan Location-Based Service Secara Kolaboratif* <br />
    Kusworo Anindito, Eddy Julianto, **Yohanes Sigit Purnomo WP**<br />
    **Jurnal Buana Informatika 6 (1)** - DOI: [10.24002/jbi.v6i1.397](https://doi.org/10.24002/jbi.v6i1.397)
-7. **2014** - *Pengembangan Prototype E-Directory Batik Berbasis Mobile Web dan Location Based-Service* <br />
+8. **2014** - *Pengembangan Prototype E-Directory Batik Berbasis Mobile Web dan Location Based-Service* <br />
    **Yohanes Sigit Purnomo WP**, Kusworo Anindito, Theresia Devi Indriasari, Suyoto Suyoto<br />
    **Jurnal Buana Informatika 5 (1)** - DOI: [10.24002/jbi.v5i1.344](https://doi.org/10.24002/jbi.v5i1.344)
 
