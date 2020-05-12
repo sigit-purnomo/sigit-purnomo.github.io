@@ -1,3 +1,12 @@
+---
+title:  "List of Publications about Abstractive Summarization"
+excerpt: "List of Publications about Abstractive Summarization. Collected and curated from ArXiv."
+date: 2020-05-16
+permalink: /posts/2020/05/ist-of-publications-about-abstractive-summarization/
+---
+
+Last updated: May 16, 2020
+
 |No.| Year  |  Title | URL      |
 |:-:| :---: | ------ | :------: |
 |1|2020|On Faithfulness and Factuality in Abstractive Summarization| [View](https://arxiv.org/abs/2005.00661) |
