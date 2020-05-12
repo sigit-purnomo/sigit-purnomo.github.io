@@ -7,7 +7,7 @@ categories: [resources,nlp]
 tags: [abstractive-summarization, document-summarization]
 ---
 
-Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases (Gupta et. al., 2019). I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! 
+Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases [(Gupta et. al., 2019)](https://doi.org/10.1016/j.eswa.2018.12.011). I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! 
 
 Last updated: **May 16, 2020** <br />
 Source      : [**ArXiv**](https://arxiv.org/)
