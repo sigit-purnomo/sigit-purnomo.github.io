@@ -116,7 +116,6 @@
 |2018|Improving Automatic Source Code Summarization via Deep Reinforcement Learning| [View](https://arxiv.org/abs/1811.07234) |
 |2018|Automatic Text Document Summarization using Semantic-based Analysis| [View](https://arxiv.org/abs/1811.06567) |
 |2018|CQASUMM: Building References for Community Question Answering Summarization Corpora| [View](https://arxiv.org/abs/1811.04884) |
-|2018|Diverse Relevance Feedback for Time Series with Autoencoder Based Summarizations   TKDE new update| [View](https://arxiv.org/abs/se Relevan) |
 |2018|DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization| [View](https://arxiv.org/abs/1811.02394) |
 |2018|Abstractive Summarization of Reddit Posts with Multi-level Memory Networks| [View](https://arxiv.org/abs/1811.00783) |
 |2018|Content Selection in Deep Learning Models of Summarization| [View](https://arxiv.org/abs/1810.12343) |
@@ -239,7 +238,6 @@
 |2016|Efficient Summarization with Read-Again and Copy Mechanism| [View](https://arxiv.org/abs/1611.03382) |
 |2016|Distraction-Based Neural Networks for Document Summarization| [View](https://arxiv.org/abs/1610.08462) |
 |2016|Abstractive Meeting Summarization UsingDependency Graph Fusion| [View](https://arxiv.org/abs/1609.07035) |
-|2016|A Hybrid Citation Retrieval Algorithm for Evidence-based Clinical Knowledge Summarization: Combining Concept Extraction, Vector Similarity | [View](https://arxiv.org/abs/rid Citati) |
 |2016|Novel Word Embedding and Translation-based Language Modeling for Extractive Speech Summarization| [View](https://arxiv.org/abs/1607.06532) |
 |2016|Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization| [View](https://arxiv.org/abs/1607.00718) |
 |2016|Unsupervised Topic Modeling Approaches to Decision Summarization in Spoken Meetings| [View](https://arxiv.org/abs/1606.07829) |
