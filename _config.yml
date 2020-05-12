@@ -102,13 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website (ID)"
-      icon: "fas fa-fw fa-link"
-      url: "https://sigitpurnomo.id"
-    - label: "Python Tutorial (ID)"
-      icon: "fas fa-fw fa-link"
-      url: "https://karyakarsa.com/sigitpurnomo"      
+      # url: mailto:your.name@email.com     
     - label: "Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=RalnBvQAAAAJ&hl=en"
@@ -130,6 +124,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Website (ID)"
+      icon: "fas fa-fw fa-link"
+      url: "https://sigitpurnomo.id"
+    - label: "Python Tutorial (ID)"
+      icon: "fas fa-fw fa-link"
+      url: "https://karyakarsa.com/sigitpurnomo" 
 
       
 # Site Footer
