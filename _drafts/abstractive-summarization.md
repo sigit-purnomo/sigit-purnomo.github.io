@@ -7,8 +7,8 @@ permalink: /posts/2020/05/curated-lists-of-publications-about-abstractive-summar
 
 Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases (Gupta et. al., 2019). I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! 
 
-Last updated: **May 16, 2020**
-Source      : **[ArXiv]**(https://arxiv.org/)
+Last updated: **May 16, 2020** <br />
+Source      : [**ArXiv**](https://arxiv.org/)
 
 |No.| Year  |  Title | URL      |
 |:-:| :---: | ------ | :------: |
