@@ -1,6 +1,6 @@
 List of Papers:
-
 | Publication Year | Publication Title | Publication Link |
+| ---------------- | ----------------- | ---------------- |
 |2020|CAiRE-COVID: A Question Answering and Multi-Document Summarization System for COVID-19 Research| [Link](https://arxiv.org/abs/2005.03975) |
 |2020|Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization| [Link](https://arxiv.org/abs/2005.03510) |
 |2020|Exploring Content Selection in Summarization of Novel Chapters| [Link](https://arxiv.org/abs/2005.01840) |
