@@ -16,7 +16,7 @@ Source      : [**Github**](https://github.com/)
 |:-:| :---: | ------ | :------: |
 |1|2020|PCDet - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud | [View](https://github.com/sshaoshuai/PCDet) |
 |2|2020|U-2-Net - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection| [View](https://github.com/NathanUA/U-2-Net) |
-|3|2020|basnet- http - HTTP service wrapper for BASNet: Boundary-Aware Salient Object Detection  http| [View](https://github.com/cyrildiagne/basnet-https) |
+|3|2020|basnet- http - HTTP service wrapper for BASNet: Boundary-Aware Salient Object Detection  http| [View](https://github.com/cyrildiagne/basnet-http) |
 |4|2020|BASNet - Code for CVPR 2019 paper| [View](https://github.com/NathanUA/BASNet) |
 |5|2020|Object-Detection-and-Tracking - YOLO & RCNN Object Detection and Multi-Object Tracking | [View](https://github.com/yehengchen/Object-Detection-and-Tracking) |
 |6|2020|sight - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlo| [View](https://github.com/rish-16/sight) |
