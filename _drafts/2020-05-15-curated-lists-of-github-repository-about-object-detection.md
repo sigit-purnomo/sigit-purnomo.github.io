@@ -1,13 +1,13 @@
 ---
 title:  "Curated Lists of Github Repository about Object Detection"
-excerpt: "Object detection is part of the computer vision tasks that related to identify or detect object from an image or video. I have tried to collect and curate some github repository that related to the object detection task, and the results were listed here. Please enjoy it! "
+excerpt: "Object detection is part of the computer vision tasks that related to identify or detect object from an image or video. I have tried to collect and curate some Python github repository that related to the object detection task, and the results were listed here. Please enjoy it! "
 date: 2020-05-13
 permalink: /posts/2020/05/curated-lists-of-publications-about-abstractive-summarization-from-arxiv/
-categories: [resources,natural-language-proessing]
-tags: [abstractive-summarization, document-summarization]
+categories: [python-github-repository]
+tags: [object-detection]
 ---
 
-Object detection is part of the computer vision tasks that related to identify or detect object from an image or video. I have tried to collect and curate some github repository that related to the object detection task, and the results were listed here. Please enjoy it! 
+Object detection is part of the computer vision tasks that related to identify or detect object from an image or video. I have tried to collect and curate some Python github repository that related to the object detection task, and the results were listed here. Please enjoy it to suport your research about object detection using Python! 
 
 Last updated: **May 15, 2020** <br />
 Source      : [**Github**](https://github.com/)
