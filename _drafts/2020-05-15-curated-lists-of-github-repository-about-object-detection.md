@@ -45,5 +45,5 @@ Source      : [**Github**](https://github.com/)
 |29|2017|focal-loss - Focal loss for Dense Object Detection | [View](https://github.com/unsky/focal-loss) |
 |30|2017|RON - RON: Reverse Connection with Objectness Prior Networks for Object Detection, CVPR 201| [View](https://github.com/taokong/RON) |
 |31|2016|detection-2016-nipsws - Hierarchical Object Detection with Deep Reinforcement Learning | [View](https://github.com/imatge-upc/detection-2016-nipsws) |
-|32|2016|chainer-faster-rcnn - Object Detection with Faster R-CNN in Chainer  … #pytho| [View](https://github.com/mitmul/chainer-faster-rcnn) |
-|33|2016|T-CNN - ImageNet 2015 Object Detection from Video (VID)  … #pytho| [View](https://github.com/myfavouritekk/T-CNN) |
+|32|2016|chainer-faster-rcnn - Object Detection with Faster R-CNN in Chainer | [View](https://github.com/mitmul/chainer-faster-rcnn) |
+|33|2016|T-CNN - ImageNet 2015 Object Detection from Video (VID) | [View](https://github.com/myfavouritekk/T-CNN) |
