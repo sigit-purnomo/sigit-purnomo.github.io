@@ -19,7 +19,7 @@ Source      : [**Github**](https://github.com/)
 |3|2020|basnet- http - HTTP service wrapper for BASNet: Boundary-Aware Salient Object Detection| [View](https://github.com/cyrildiagne/basnet-http) |
 |4|2020|BASNet - Code for CVPR 2019 paper| [View](https://github.com/NathanUA/BASNet) |
 |5|2020|Object-Detection-and-Tracking - YOLO & RCNN Object Detection and Multi-Object Tracking| [View](https://github.com/yehengchen/Object-Detection-and-Tracking) |
-|6|2020|sight - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow| [View](https://github.com/rish-16/sight) |
+|6|2020|sight - Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow| [View](https://github.com/rish-16/sight) |
 |7|2020|efficientdet - (Pretrained weights provided) EfficientDet: Scalable and Efficient Object Detection implementation by Signatrix GmbH| [View](https://github.com/signatrix/efficientdet) |
 |8|2019|RDSNet - implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"| [View](https://github.com/wangsr126/RDSNet) |
 |9|2019|EfficientDet| [View](https://github.com/toandaominh1997/EfficientDet.Pytorch) |
