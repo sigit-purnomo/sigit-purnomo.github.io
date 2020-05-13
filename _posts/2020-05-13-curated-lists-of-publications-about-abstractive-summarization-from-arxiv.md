@@ -3,7 +3,7 @@ title:  "Curated Lists of Publications about Abstractive Summarization from ArXi
 excerpt: "Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases. I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! "
 date: 2020-05-13
 permalink: /posts/2020/05/curated-lists-of-publications-about-abstractive-summarization-from-arxiv/
-categories: [resources,natural-language-proessing]
+categories: [natural-language-proessing]
 tags: [abstractive-summarization, document-summarization]
 ---
 
@@ -27,7 +27,7 @@ Source      : [**ArXiv**](https://arxiv.org/)
 |11|2020|Abstractive Summarization for Low Resource Data using Domain Transfer and Data Synthesis| [View](https://arxiv.org/abs/2002.03407) |
 |12|2020|Length-controllable Abstractive Summarization by Guiding with Summary Prototype| [View](https://arxiv.org/abs/2001.07331) |
 |13|2020|Neural Abstractive Text Summarization with Sequence-to-Sequence Models: A Survey| [View](https://arxiv.org/abs/1812.02303) |
-|14|2020|Deep Reinforced Self-Attention Masks for Abstractive Summarization ( )| [View](https://arxiv.org/abs/2001.00009) |
+|14|2020|Deep Reinforced Self-Attention Masks for Abstractive Summarization | [View](https://arxiv.org/abs/2001.00009) |
 |15|2020|In Conclusion Not Repetition: Comprehensive Abstractive Summarization With Diversified Attention Based On Determinantal Point Processes| [View](https://arxiv.org/abs/1909.10852) |
 |16|2019|Improving Abstractive Text Summarization with History Aggregation| [View](https://arxiv.org/abs/1912.11046) |
 |17|2019|PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization| [View](https://arxiv.org/abs/1912.08777) |
