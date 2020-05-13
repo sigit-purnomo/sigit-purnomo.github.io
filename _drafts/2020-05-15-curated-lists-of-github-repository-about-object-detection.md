@@ -27,7 +27,7 @@ Source      : [**Github**](https://github.com/)
 |11|2019|a-PyTorch-Tutorial-to-Object-Detection - SSD: Single Shot MultiBox Detector| [View](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) |
 |12|2019|FreeAnchor - Learning to Match Anchors for Visual Object Detection (NeurIPS 2019)| [View](https://github.com/zhangxiaosong18/FreeAnchor) |
 |13|2019|votenet - Deep Hough Voting for 3D Object Detection in Point Clouds| [View](https://github.com/facebookresearch/votenet) |
-|14|2019|TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10 - How to train a TensorFlow Object Detection Classifier for multiple o...| [View](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10) |
+|14|2019|TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10 - How to train a TensorFlow Object Detection Classifier for multiple objects.| [View](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10) |
 |15|2019|CenterNet - Codes for our paper "CenterNet: Keypoint Triplets for Object Detection" .| [View](https://github.com/Duankaiwen/CenterNet) |
 |16|2019|PointRCNN - The PyTorch Implementation of PointRCNN for 3D Object Detection from Raw Point Cloud, CVPR 2019.| [View](https://github.com/sshaoshuai/PointRCNN) |
 |17|2019|FCOS - Fully Convolutional One-Stage Object Detection| [View](https://github.com/tianzhi0549/FCOS) |
@@ -47,4 +47,5 @@ Source      : [**Github**](https://github.com/)
 |31|2016|detection-2016-nipsws - Hierarchical Object Detection with Deep Reinforcement Learning| [View](https://github.com/imatge-upc/detection-2016-nipsws) |
 |32|2016|chainer-faster-rcnn - Object Detection with Faster R-CNN in Chainer| [View](https://github.com/mitmul/chainer-faster-rcnn) |
 |33|2016|T-CNN - ImageNet 2015 Object Detection from Video (VID)| [View](https://github.com/myfavouritekk/T-CNN) |
+
 
