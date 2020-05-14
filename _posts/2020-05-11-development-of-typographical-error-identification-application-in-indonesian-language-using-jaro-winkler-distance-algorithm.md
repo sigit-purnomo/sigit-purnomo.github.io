@@ -21,6 +21,7 @@ Text is one of the media used by humans to communicate and interact every day, e
 **DOI**: [10.30595/juita.v8i1.6344](https://doi.org/10.30595/juita.v8i1.6344)
 
 **References:**
+
 [1] A. I. Fahma, I. Cholissodin, and R. S. Perdana, “Identifikasi Kesalahan Penulisan Kata ( Typographical Error ) pada Dokumen Berbahasa Indonesia Menggunakan Metode N-gram dan Levenshtein Distance,” J. Pengemb. Teknol. Inf. dan Ilmu Komput., vol. 2, no. 1, pp. 53–62, 2018.
 
 [2] Murtiningsih S.Pd, “Kesalahan Berbahasa Indonesia Mahasiswa S-1 PGSD STIKIP Nuuwar Fak-fak,” J. Penelit. Ilmu Pendidik., vol. 6, no. 1, pp. 74–82, 2013.
