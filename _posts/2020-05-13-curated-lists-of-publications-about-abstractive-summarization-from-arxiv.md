@@ -1,6 +1,6 @@
 ---
 title:  "Curated Lists of Publications about Abstractive Summarization from ArXiv"
-excerpt: "Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases. I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! "
+excerpt: "Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases. I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it if your research interest is about abstractive summarization! "
 date: 2020-05-13
 permalink: /posts/2020/05/curated-lists-of-publications-about-abstractive-summarization-from-arxiv/
 categories: [natural-language-proessing]
