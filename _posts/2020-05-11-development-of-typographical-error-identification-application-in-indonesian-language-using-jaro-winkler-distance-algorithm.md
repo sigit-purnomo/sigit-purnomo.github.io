@@ -16,4 +16,4 @@ Text is one of the media used by humans to communicate and interact every day, e
 
 **Keywords:** Text, Document, Bahasa Indonesia, Typographical Error, Jaro-Winkler Distance
 
-**Article:** [JUITA : Jurnal Informatika 8 (1), 19-27](http://jurnalnasional.ump.ac.id/index.php/JUITA/article/view/6344)
+**DOI**: [10.30595/juita.v8i1.6344](https://doi.org/10.30595/juita.v8i1.6344)
