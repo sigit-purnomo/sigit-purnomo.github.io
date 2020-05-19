@@ -81,10 +81,10 @@ GitHub Pages content mostly consists of pages (saved in _pages folder) and posts
 
 1. Click the **_pages** folder in your repository to see the list of the pages contents.<br />
 
-  ![GitHub Pages Contents](/assets/images/pages-lists.png "GitHub Pages Contents]")
+   ![GitHub Pages Contents](/assets/images/pages-lists.png "GitHub Pages Contents]")
 
 2. Edit all of the pages with information about you and your portfolios.<br />
-   Both of the pages and posts content using the Markdown format. You can learn about the Markdown format **[here]**(https://guides.github.com/features/mastering-markdown/). <br />
+   Both of the pages and posts content using the Markdown format. You can learn about the Markdown format **[here](https://guides.github.com/features/mastering-markdown/)**. <br />
    **Note:** If you want to add image in your content, don't forget to upload the image in **/assets/images/** folder.
    
    ![GitHub About Pages Edit](/assets/images/pages-content.png "GitHub About Pages Edit")
@@ -96,9 +96,9 @@ GitHub Pages content mostly consists of pages (saved in _pages folder) and posts
 
    ![GitHub Pages Commit Changes](/assets/images/pages-content-commit.png "GitHub Pages Commit Changes")   
 
-### Step #5: Check Your Github Pages Published
+### Step #5: Check Your Github Pages
 
-Open your browser and type your repository name in the URL address bar, for example **your-username.github.io** and voila, your GitHub Pages are published!
+Open your browser and type your repository name in the URL address bar, for example, **your-username.github.io** and voila, your GitHub Pages have been published!
 
 ### Final Note
 If you want to learn about how to customize your GitHub Pages, you can go to the Jekyll Documentation here:
@@ -108,4 +108,4 @@ If you want to learn about how to customize your GitHub Pages, you can go to the
 4. [Collections](https://jekyllrb.com/docs/collections/)
 5. [Layouts](https://jekyllrb.com/docs/layouts/)
 
-Aside, there is also a complete documentation about Minimal Mistakes Template that used in this repository. You can access it here in [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+Aside, there is also a complete documentation about Minimal Mistakes Template that used in this repository. You can access it here in [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) section.
