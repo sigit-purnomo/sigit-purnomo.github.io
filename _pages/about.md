@@ -4,7 +4,7 @@ permalink: /about/
 excerpt: "About Me, Education, Research Interests, Teaching Experiences, Fellowship Experiences, and Awards"
 layout: single
 header:
-  image: /assets/images/rsz_img_20200312_192617.jpg
+  image: /assets/images/about_me-picture.jpg
 author_profile: true
 sitemap: true
 modified: 2020-04-25

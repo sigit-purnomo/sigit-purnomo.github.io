@@ -4,6 +4,6 @@ exceprt: "Blog posting about academic journeys includes teaching, research, publ
 permalink: /year-archive/
 layout: posts
 header: 
-  image: /assets/images/rsz_1blog_post-amico.png
+  image: /assets/images/blog_post-amico.png
 author_profile: true
 ---
