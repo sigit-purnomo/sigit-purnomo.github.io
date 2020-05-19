@@ -9,7 +9,7 @@ tags: [convolutional-neural-networks]
 
 A convolutional neural network (CNN) is most popular deep learning algorithm used for image related applications [(Thanki et. al, 2019)](https://doi.org/10.1016/B978-0-12-816086-2.00011-4). I have tried to collect and curate some publications form Arxiv that related to the Convolutional Neural Networks (CNNs), and the results were listed here. Please enjoy it! 
 
-Last updated: **May 19, 2020** <br />
+Last updated: **May 21, 2020** <br />
 Source      : [**ArXiv**](https://arxiv.org/)
 
 |No.| Year  |  Title | URL      |
