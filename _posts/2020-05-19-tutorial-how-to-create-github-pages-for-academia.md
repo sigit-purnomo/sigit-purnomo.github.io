@@ -1,7 +1,7 @@
 ---
 title:  "Tutorial: How to Create GitHub Pages for Academia"
 excerpt: "As academia, having a website to publish portfolios is really important. GitHub Pages will be a perfect solution because it doesn't cost anything. There is no need to buy a domain and web hosting service. Everything is all in Github. This tutorial will guide you to build your GitHub Pages. Please enjoy it! "
-date: 2020-05-19
+date: 2020-05-21
 permalink: /posts/2020/05/tutorial-how-to-create-github-pages-for-academia/
 categories: [tutorial]
 tags: [academia-github-pages]
@@ -80,15 +80,28 @@ GitHub Pages content mostly consists of pages (saved in _pages folder) and posts
 
 1. Click the **_pages** folder in your repository to see the list of the pages contents.<br />
 
-  ![GitHub Pages Contents](/assets/images/pages-content.png "GitHub Pages Contents]")
+  ![GitHub Pages Contents](/assets/images/pages-lists.png "GitHub Pages Contents]")
 
 2. Edit all of the pages with information about you and your portfolios.<br />
    Both of the pages and posts content using the Markdown format. You can learn about the Markdown format **[here]**(https://guides.github.com/features/mastering-markdown/). <br />
    **Note:** If you want to add image in your content, don't forget to upload the image in **/assets/images/** folder.
+   
+   ![GitHub About Pages Edit](/assets/images/pages-content.png "GitHub About Pages Edit")
 
-  ![GitHub About Pages Contents](/assets/images/pages-econtent-dit.png "GitHub About Pages Contents")
+   ![GitHub About Pages Contents](/assets/images/pages-content-edit.png "GitHub About Pages Contents")
 
 3. Commit the Changes.<br />
    After finish edit the content, don't forget to commit your change by fill the form and click te **Commit changes** button.
 
-  ![GitHub Pages Commit Changes](/assets/images/pages-content-commit.png "GitHub Pages Commit Changes")   
+   ![GitHub Pages Commit Changes](/assets/images/pages-content-commit.png "GitHub Pages Commit Changes")   
+
+
+### Final Note
+If you want to learn about how to customize your GitHub Pages, you can go to the Jekyll Documentation here:
+1. [Pages](https://jekyllrb.com/docs/pages/)
+2. [Posts](https://jekyllrb.com/docs/posts/)
+3. [Front Matter](https://jekyllrb.com/docs/front-matter/)
+4. [Collections](https://jekyllrb.com/docs/collections/)
+5. [Layouts](https://jekyllrb.com/docs/layouts/)
+
+Aside, there is also a complete documentation about Minimal Mistakes Template that used in this repository. You can access it here in [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
