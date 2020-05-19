@@ -96,6 +96,9 @@ GitHub Pages content mostly consists of pages (saved in _pages folder) and posts
 
    ![GitHub Pages Commit Changes](/assets/images/pages-content-commit.png "GitHub Pages Commit Changes")   
 
+### Step #5: Check Your Github Pages Published
+
+Open your browser and type your repository name in the URL address bar, for example **your-username.github.io** and voila, your GitHub Pages are published!
 
 ### Final Note
 If you want to learn about how to customize your GitHub Pages, you can go to the Jekyll Documentation here:

@@ -1,7 +1,7 @@
 ---
 title:  "Curated Lists of Publications about Extractive Summarization from ArXiv"
 excerpt: "The main objective of extractive summarization can be concisely formulated as extracting text inputs containing information on the most important concepts described in the input text or texts.  I have tried to collect and curate some publications form Arxiv that related to the extractive summarization, and the results were listed here. Please enjoy it! "
-date: 2020-05-19
+date: 2020-05-23
 permalink: /posts/2020/05/curated-lists-of-publications-about-extractive-summarization-from-arxiv/
 categories: [natural-language-proessing]
 tags: [extractive-summarization, document-summarization]
