@@ -75,7 +75,8 @@ The main objective of this tutorial is to give step-by-step guides for academia 
 
    ![Configure GitHub Pages Menu](/assets/images/navigation-edit.png "Configure GitHub Pages Menu")
 
-###Step 4: Edit Your GitHub Pages Contents
+### Step 4: Edit Your GitHub Pages Contents
+
 GitHub Pages content mostly consists of pages (saved in _pages folder) and posts (saved in _posts folder). You can use pages type content to create content like about me, publication portfolio, and research portfolio. Whereas post type of content, you can use it to create content to publish your opinion, thought, or tutorial like this content. You can follow this step both to edit the pages or posts. 
 
 1. Click the **_pages** folder in your repository to see the list of the pages contents.<br />
