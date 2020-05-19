@@ -7,7 +7,9 @@ categories: [tutorial]
 tags: [academia-github-pages]
 ---
 
-The main objective of this tutorial is to give step-by-step guides for academia that wants to publish his/her academic portfolios using GitHub Pages.
+As academia, having a website to publish portfolios is really important. GitHub Pages will be a perfect solution because it doesn't cost anything. There is no need to buy a domain and web hosting service. Everything is all in Github. This tutorial will guide you to build your GitHub Pages. 
+
+The main objective of this tutorial is to give step-by-step guides for academia that wants to publish his/her academic portfolios using GitHub Pages. Please enjoy it! 
 
 ### Step #1: Sign Up to GitHub 
 
