@@ -1,7 +1,7 @@
 ---
 title:  "Tutorial: How to Create GitHub Pages for Academia"
 excerpt: "As academia, having a website to publish portfolios is really important. GitHub Pages will be a perfect solution because it doesn't cost anything. There is no need to buy a domain and web hosting service. Everything is all in Github. This tutorial will guide you to build your GitHub Pages. Please enjoy it! "
-date: 2020-05-19
+date: 2020-05-21
 permalink: /posts/2020/05/tutorial-how-to-create-github-pages-for-academia/
 categories: [tutorial]
 tags: [academia-github-pages]
