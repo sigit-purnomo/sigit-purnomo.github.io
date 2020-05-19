@@ -37,7 +37,7 @@ The main objective of this tutorial is to give step-by-step guides for academia 
 
 3. Go to your new repository then click the Settings Icon
 
-   ![Github New Repository Settings](/assets/images/settings-options.png "Github New Repository Settings")
+   ![Github New Repository Settings](/assets/images/repository-settings.png "Github New Repository Settings")
 
 4. Rename your new repository to your-username.github.io.
 
@@ -53,17 +53,17 @@ The main objective of this tutorial is to give step-by-step guides for academia 
    a. Configure Your Github Pages Description <br />
       This part is to configure your site description, like title, description, etc. Please edit as your wish.
 
-      ![Configure GitHub Pages Description](/assets/images/configuration-description.png "Configure GitHub Pages Description")
+      ![Configure GitHub Pages Description](/assets/images/configuration-settings-description.png "Configure GitHub Pages Description")
 
    b. Configure Your Github Pages Profile <br />
       This part is to configure your profile, like name, avatar, bio, location, and link to some of your important things, like email and social media account. As academia, my suggestion is you should add links to your Google Scholar, ResearchGate, Orcid ID, and SINTA Profile (Indonesian Only).
 
-      ![Configure GitHub Pages Profile](/assets/images/configuration-profile.png "Configure GitHub Pages Profile")
+      ![Configure GitHub Pages Profile](/assets/images/configuration-settings-profile.png "Configure GitHub Pages Profile")
 
    c. Configure Your Github Pages Footer <br />
       This part is to configure your site footer, like link to your social media account. Please edit as your wish.
 
-      ![Configure GitHub Pages Footer](/assets/images/configuration-footer.png "Configure GitHub Pages Footer")   
+      ![Configure GitHub Pages Footer](/assets/images/configuration-settings-footer.png "Configure GitHub Pages Footer")   
 
    d. Commit Your Configuration <br />
       After finish the configuration, don't forget to commit your change by fill the form and click te **Commit changes** button.
@@ -76,17 +76,19 @@ The main objective of this tutorial is to give step-by-step guides for academia 
    ![Configure GitHub Pages Menu](/assets/images/navigation-edit.png "Configure GitHub Pages Menu")
 
 ###Step 4: Edit Your GitHub Pages Contents
-GitHub Pages content mostly consists of pages (saved in _pages folder) and posts (saved in _posts folder). You can use pages type content to create content like about me, publication portfolio, and research portfolio. Whereas post type of content, you can use it to create content to publish your opinion, thought, or tutorial like this content. You can follow this step both to edit the pages or posts.
+GitHub Pages content mostly consists of pages (saved in _pages folder) and posts (saved in _posts folder). You can use pages type content to create content like about me, publication portfolio, and research portfolio. Whereas post type of content, you can use it to create content to publish your opinion, thought, or tutorial like this content. You can follow this step both to edit the pages or posts. 
 
 1. Click the **_pages** folder in your repository to see the list of the pages contents.<br />
 
   ![GitHub Pages Contents](/assets/images/pages-content.png "GitHub Pages Contents]")
 
 2. Edit all of the pages with information about you and your portfolios.<br />
+   Both of the pages and posts content using the Markdown format. You can learn about the Markdown format **[here]**(https://guides.github.com/features/mastering-markdown/). <br />
+   **Note:** If you want to add image in your content, don't forget to upload the image in **/assets/images/** folder.
 
-  ![GitHub About Pages Contents](/assets/images/pages-edit.png "GitHub About Pages Contents")
+  ![GitHub About Pages Contents](/assets/images/pages-econtent-dit.png "GitHub About Pages Contents")
 
 3. Commit the Changes.<br />
    After finish edit the content, don't forget to commit your change by fill the form and click te **Commit changes** button.
 
-  ![GitHub Pages Commit Changes](/assets/images/pages-commit.png "GitHub Pages Commit Changes")   
+  ![GitHub Pages Commit Changes](/assets/images/pages-content-commit.png "GitHub Pages Commit Changes")   
