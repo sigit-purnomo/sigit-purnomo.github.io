@@ -45,6 +45,9 @@ The main objective of this tutorial is to give step-by-step guides for academia 
 
    ![Github New Repository Rename](/assets/images/repository-rename.png "Github New Repository Rename")
 
+5. Delete all of the images in **/assets/images/** folder. You can find the image or illustrarion that suit for you in **[Stories by Freepik](https://stories.freepik.com/)**.
+
+6. Delete files in the **_posts** folder but keep the **2020-04-23-hello-world.md** file.
 
 ### Step #3 Configure Your GitHub Pages
 
