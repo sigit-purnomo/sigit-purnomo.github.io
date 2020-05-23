@@ -1,8 +1,8 @@
 ---
-title:  "Research in Computational Biology and Bioinformatics using Neural Networks from Nature"
+title:  "Computational Biology and Bioinformatics Research using Neural Networks Published in Nature"
 excerpt: "Computational biology, a biology branch involving the use of computers and computer science to understand and model the structures and processes of life. It involves the use of computational methods (e.g. algorithms) for the representation and simulation of biological systems, as well as for the interpretation of experimental data, often on a very large scale. I have tried to collect and curate some publications that related to the computational biology and bioinformatics using neural networks and the results were listed here. Please enjoy it! "
 date: 2020-05-23
-permalink: /posts/2020/05/research-in-computational-biology-and-bioinformatics-using-neural-networks-from-nature/
+permalink: /posts/2020/05/computational-biology-and-bioinformatics-research-using-neural-networks-published-in-nature/
 categories: [machine-learning, deep-learning]
 tags: [computational-biology-and-bioinformatics, neural-networks]
 ---
