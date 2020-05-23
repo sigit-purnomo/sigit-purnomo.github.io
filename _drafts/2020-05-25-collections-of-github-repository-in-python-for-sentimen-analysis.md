@@ -4,7 +4,7 @@ excerpt: "Sentiment Analysis ( SA) is a field of study that analyzes people's fe
 date: 2020-05-25
 permalink: /posts/2020/05/collections-of-github-repository-in-python-for-sentiment-analysis-task/
 categories: [python-github-repository]
-tags: [object-detection]
+tags: [sentiment-analysis]
 ---
 
 Sentiment Analysis ( SA) is a field of study that analyzes people's feelings or opinions from reviews or opinions [Pandey & Deorankar, 2019](https://doi.org/10.1109/ICECCT.2019.8869160). Sentiment analysis can be seen as a natural language processing task, the task is to develop a system that understands people's language. I have tried to collect and curate some Python-based Github repository linked to the sentiment analysis task, and the results were listed here. Please enjoy it to support your research about sentiment analysis using Python! 
