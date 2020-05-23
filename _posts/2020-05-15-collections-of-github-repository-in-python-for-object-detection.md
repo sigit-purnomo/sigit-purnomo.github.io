@@ -1,7 +1,7 @@
 ---
 title:  "Collections of Github Repository in Python for Object Detection Task"
 excerpt: "Object detection is part of the computer vision tasks related to identify or detect an object from an image or video. I have tried to collect and curate some Python-based Github repository linked to the object detection task, and the results were listed here. Please enjoy it to support your research about object detection using Python! "
-date: 2020-05-15
+date: 2020-05-13
 permalink: /posts/2020/05/collections-of-github-repository-in-python-for-object-detection-task/
 categories: [python-github-repository]
 tags: [object-detection]

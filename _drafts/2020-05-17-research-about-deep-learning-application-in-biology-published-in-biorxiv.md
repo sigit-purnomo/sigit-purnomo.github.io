@@ -1,8 +1,8 @@
 ---
-title:  "Curated Lists of Publications about Deep Learning Application in Biology from bioRxiv"
+title:  "Research about Deep Learning Application in Biology Publishe in bioRxiv"
 excerpt: "Deep learning is a set of machine learning algorithms that attempt to model high-level abstractions in input data using multiple non-linear transformations. Some of the major advances in deep learning have been made in speech recognition, computer vision, and natural language processing. Considering that data volume is growing exponentially, deep learning is becoming increasingly important in the predictive analysis of big data. I have tried to collect and curate some publications form bioRxiv that related to the deep learning application in biology, and the results were listed here. Please enjoy it! "
 date: 2020-05-17
-permalink: /posts/2020/05/curated-lists-of-publications-about-deep-learning-application-in-biology-from-biorxiv
+permalink: /posts/2020/05/research-about-deep-learning-application-in-biology-published-in-biorxiv
 categories: [deep-learning]
 tags: [application-in-biology]
 ---
