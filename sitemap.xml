@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sigit-purnomo.github.io/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/about/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/research/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/publication/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/categories/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/collections-of-github-repository-in-python-for-sentiment-analysis-task/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/computational-biology-and-bioinformatics-research-using-neural-networks-published-in-nature/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/research-about-convolutional-neural-networks-published-in-arxiv</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/tutorial-how-to-create-github-pages-for-academia/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/research-about-deep-learning-application-in-biology-published-in-biorxiv</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/page2/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/collections-of-github-repository-in-python-for-object-detection-task/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/04/hello-world/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/development-of-typographical-error-identification-application-in-indonesian-language-using-jaro-winkler-distance-algorithm/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sigit-purnomo.github.io/posts/2020/05/research-about-abstractive-summarization-published-in-arxiv/</loc>
+  <lastmod>2020-05-26T06:38:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
