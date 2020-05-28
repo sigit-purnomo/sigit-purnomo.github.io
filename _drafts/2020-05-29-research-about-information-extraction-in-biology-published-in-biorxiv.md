@@ -1,6 +1,6 @@
 ---
-title:  "Research about Deep Learning Application in Biology Published in bioRxiv"
-excerpt: "DInformation Extraction refers to the automatic extraction of structured information such as entities, relationships between entities, and attributes that describe entities from unstructured sources. I have tried to collect and curate some publications form bioRxiv that related to the information extraction in biology, such as relation extraction and feature extraction. The results were listed here. Please enjoy it! "
+title:  "Research about Information Extraction in Biology Published in bioRxiv"
+excerpt: "Information Extraction refers to the automatic extraction of structured information such as entities, relationships between entities, and attributes that describe entities from unstructured sources. I have tried to collect and curate some publications form bioRxiv that related to the information extraction in biology, such as relation extraction and feature extraction. The results were listed here. Please enjoy it! "
 date: 2020-05-29
 permalink: /posts/2020/05/research-about-information-extraction-in-biology-published-in-biorxiv
 categories: [machine-learning]
