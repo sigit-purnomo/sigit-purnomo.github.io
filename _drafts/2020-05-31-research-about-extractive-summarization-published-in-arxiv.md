@@ -9,7 +9,7 @@ tags: [extractive-summarization, document-summarization]
 
 The main objective of extractive summarization can be concisely formulated as extracting text inputs containing information on the most important concepts described in the input text or texts. [(Filatova et. al., 2004)](https://www.aclweb.org/anthology/W04-1017). I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! 
 
-Last updated: **May 27, 2020** <br />
+Last updated: **May 31, 2020** <br />
 Source      : [**ArXiv**](https://arxiv.org/)
 
 |No.| Year  |  Title | URL      |
