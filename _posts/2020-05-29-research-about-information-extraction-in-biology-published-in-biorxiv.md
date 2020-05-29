@@ -7,7 +7,7 @@ categories: [machine-learning]
 tags: [information-extraction, relation-extraction, feature-extraction]
 ---
 
-Information Extraction refers to the automatic extraction of structured information such as entities, relationships between entities, and attributes that describe entities from unstructured sources. [(Lsarawagi, 2008)](https://doi.org/10.1561/1900000003). I have tried to collect and curate some publications form bioRxiv that related to the information extraction in biology, such as relation extraction and feature extraction. The results were listed here. Please enjoy it! 
+Information Extraction refers to the automatic extraction of structured information such as entities, relationships between entities, and attributes that describe entities from unstructured sources. [(Sarawagi, 2008)](https://doi.org/10.1561/1900000003). I have tried to collect and curate some publications form bioRxiv that related to the information extraction in biology, such as relation extraction and feature extraction. The results were listed here. Please enjoy it! 
 
 Last updated: **May 29, 2020** <br />
 Source      : [**bioRxiv**](https://www.biorxiv.org)
