@@ -4,7 +4,7 @@ excerpt: "Aspect-based sentiment analysis deals with capturing sentiments expres
 date: 2020-06-07
 permalink: /posts/2020/06/research-about-apectbased-sentiment-analysis-published-in-arxiv/
 categories: [natural-language-proessing]
-tags: [machine-translation, low-resource-language]
+tags: [aspect-based-sentiment-analysis]
 ---
 
 Aspect-based sentiment analysis deals with capturing sentiments expressed towards each aspect of entities. [(Mowlaei, et al., 2020)](https://doi.org/10.1016/j.eswa.2020.113234). I have tried to collect and curate some publications form Arxiv that related to the aspect-based sentiment analysis, and the results were listed here. Please enjoy it! 
