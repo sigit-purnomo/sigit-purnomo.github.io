@@ -1,7 +1,7 @@
 ---
 title:  "Research about Multi Document Summarization Published in ArXiv"
 excerpt: "Multi-document summarization is an automatic process to create a concise and comprehensive document, called summary from multiple documents.  I have tried to collect and curate some publications form Arxiv that related to multi document summarization, and the results were listed here. Please enjoy it!"
-date: 2020-07-15
+date: 2020-06-27
 permalink: /posts/2020/06/research-about-multi-document-summarization-published-in-arxiv
 categories: [natural-language-processing]
 tags: [document-summarization]
@@ -9,7 +9,7 @@ tags: [document-summarization]
 
 Multi-document summarization is an automatic process to create a concise and comprehensive document, called summary from multiple documents.  [(Rautrey & Balabantaray, 2017)](https://doi.org/10.1016/j.aci.2017.05.003). I have tried to collect and curate some publications form Arxiv that related to multi document summarization, and the results were listed here. Please enjoy it! 
 
-Last updated: **July 15, 2020** <br />
+Last updated: **June 27, 2020** <br />
 Source      : [**ArXiv**](https://arxiv.org/)
 
 |No.| Year  |  Title | URL      |
