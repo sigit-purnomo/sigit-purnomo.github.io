@@ -23,12 +23,11 @@ Source      : [**ArXiv**](https://arxiv.org/)
 |7|2019|Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization| [View](https://arxiv.org/abs/1909.12231) |
 |8|2018|Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization| [View](https://arxiv.org/abs/1808.06218) |
 |9|2018|Abstract Meaning Representation for Multi-Document Summarization| [View](https://arxiv.org/abs/1806.05655) |
-|10|2018|Using Statistical and Semantic Models for Multi-Document Summarization| [View](https://arxiv.org/abs/1805.04579) |
-|11|2018|Using Stastical and Semantic Models for Multi-Document Summarization| [View](https://arxiv.org/abs/1805.04579) |
-|12|2017|Multi-Document Summarization using Distributed Bag-of-Words Model| [View](https://arxiv.org/abs/1710.02745) |
-|13|2017|Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization| [View](https://arxiv.org/abs/1708.07690) |
-|14|2017|Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset| [View](https://arxiv.org/abs/1708.01065) |
-|15|2017|Graph-based Neural Multi-Document Summarization| [View](https://arxiv.org/abs/1706.06681) |
-|16|2017|Extract with Order for Coherent Multi-Document Summarization| [View](https://arxiv.org/abs/1706.06542) |
-|17|2016|Improving Multi-Document Summarization via Text Classification| [View](https://arxiv.org/abs/1611.09238) |
-|18|2016|A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization| [View](https://arxiv.org/abs/1606.07548) |
+|10|2018|Using Stastical and Semantic Models for Multi-Document Summarization| [View](https://arxiv.org/abs/1805.04579) |
+|11|2017|Multi-Document Summarization using Distributed Bag-of-Words Model| [View](https://arxiv.org/abs/1710.02745) |
+|12|2017|Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization| [View](https://arxiv.org/abs/1708.07690) |
+|13|2017|Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset| [View](https://arxiv.org/abs/1708.01065) |
+|14|2017|Graph-based Neural Multi-Document Summarization| [View](https://arxiv.org/abs/1706.06681) |
+|15|2017|Extract with Order for Coherent Multi-Document Summarization| [View](https://arxiv.org/abs/1706.06542) |
+|16|2016|Improving Multi-Document Summarization via Text Classification| [View](https://arxiv.org/abs/1611.09238) |
+|17|2016|A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization| [View](https://arxiv.org/abs/1606.07548) |
