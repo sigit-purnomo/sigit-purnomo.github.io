@@ -7,7 +7,7 @@ categories: [python-github-repository]
 tags: [lstm]
 ---
 
-An LSTM is a type of recurrent neural network that addresses the vanishing gradient problem in vanilla RNNs through additional cells, input and output gates. This RNN type introduced by Hochreiter and Schmidhuber. [Papers with Code, 2020](https://paperswithcode.com/method/lstm). I have tried to collect and curate some Python-based Github repository linked to the LSTM, and the results were listed here. Please enjoy it to support your research about LSTM using Python!
+An LSTM is a type of recurrent neural network that addresses the vanishing gradient problem in vanilla RNNs through additional cells, input and output gates. This RNN type introduced by Hochreiter and Schmidhuber [(Papers with Code, 2020)](https://paperswithcode.com/method/lstm). I have tried to collect and curate some Python-based Github repository linked to the LSTM, and the results were listed here. Please enjoy it to support your research about LSTM using Python!
 
 Last updated: **July 05, 2020** <br />
 Source      : [**Github**](https://github.com/)
