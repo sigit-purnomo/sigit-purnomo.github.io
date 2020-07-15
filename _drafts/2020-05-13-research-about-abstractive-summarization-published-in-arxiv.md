@@ -3,7 +3,7 @@ title:  "Research about Abstractive Summarization Published in ArXiv"
 excerpt: "Abstractive summary is a technique in which the summary is created by either rephrasing or using the new words, rather than simply extracting the relevant phrases. I have tried to collect and curate some publications form Arxiv that related to the abstractive summarization, and the results were listed here. Please enjoy it! "
 date: 2020-05-13
 permalink: /posts/2020/05/research-about-abstractive-summarization-published-in-arxiv/
-categories: [natural-language-proessing]
+categories: [natural-language-processing]
 tags: [abstractive-summarization, document-summarization]
 ---
 
