@@ -3,7 +3,7 @@ title:  "Research about Machine Translation for Low-Resource Language Published 
 excerpt: "Machine Translation ( MT) is the task of automatically converting one natural language to another, preserving the meaning of the input text, and producing fluent text in the output language.  I have tried to collect and curate some publications form Arxiv that related to the machine translation for low resource language, and the results were listed here. Please enjoy it! "
 date: 2020-06-02
 permalink: /posts/2020/06/research-about-machine-translation-for-low-resource-language-published-in-arxiv/
-categories: [natural-language-proessing]
+categories: [natural-language-processing]
 tags: [machine-translation, low-resource-language]
 ---
 
