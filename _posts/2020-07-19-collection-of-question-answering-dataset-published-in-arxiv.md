@@ -1,5 +1,5 @@
 ---
-title:  "RCollection of Question Answering Dataset Published in ArXiv"
+title:  "Collection of Question Answering Dataset Published in ArXiv"
 excerpt: "Question Answering (QA) Systems is an automated approach to retrieve correct responses to the questions asked by human in natural language.  I have tried to collect and curate some publications form Arxiv that related to question answering dataset, and the results were listed here. Please enjoy it!"
 date: 2020-07-19
 permalink: /posts/2020/07/collection-of-question-answering-dataset-published-in-arxiv
