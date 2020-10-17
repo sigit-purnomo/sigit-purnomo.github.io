@@ -7,7 +7,7 @@ categories: [natural-language-processing]
 tags: [sentiment-analysis]
 ---
 
-ASentiment analysis is the area which deals with judgments, responses as well as feelings, which is generated from texts, being extensively used in fields like data mining, web mining, and social media analytics because sentiments are the most essential characteristics to judge the human behavior. [(Chakraborty, et al., 2019)](https://doi.org/10.1016/B978-0-12-815458-8.00007-4). I have tried to collect and curate some publications form Arxiv that related to the sentiment analysis using neural networks, and the results were listed here. Please enjoy it! 
+Sentiment analysis is the area which deals with judgments, responses as well as feelings, which is generated from texts, being extensively used in fields like data mining, web mining, and social media analytics because sentiments are the most essential characteristics to judge the human behavior. [(Chakraborty, et al., 2019)](https://doi.org/10.1016/B978-0-12-815458-8.00007-4). I have tried to collect and curate some publications form Arxiv that related to the sentiment analysis using neural networks, and the results were listed here. Please enjoy it! 
 
 Last updated: **August 07, 2020** <br />
 Source      : [**ArXiv**](https://arxiv.org/)
