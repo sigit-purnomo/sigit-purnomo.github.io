@@ -1,6 +1,6 @@
 ---
 title:  "Research about Named Entity Recognition Published in ArXiv"
-excerpt: "Named Entity Recognition (NER) is a task in Information Extraction consisting in identifying and classifying just some types of information elements, called Named Entities (NE).  I have tried to collect and curate some publications form Arxiv that related to NER, and the results were listed here. Please enjoy it! "
+excerpt: "Named Entity Recognition (NER) is a task in Information Extraction consisting in identifying and classifying just some types of information elements, called Named Entities (NE).  I have tried to collect and curate some publications form Arxiv that related to NER, and the results were listed here. Please enjoy it!"
 date: 2020-09-14
 permalink: /posts/2020/09/research-about-named-entity-recognition-published-in-arxiv
 categories: [natural-language-processing]
