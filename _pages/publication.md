@@ -13,10 +13,13 @@ modified: 2020-05-04
 As a lecturer, one of my tasks is to publish articles on journals or conferences based on my research. Here some of my publications in collaboration with my colleague and students.
 
 #### International Journal
-1. **2019** - *Assessment of the Readiness of Micro, Small and Medium Enterprises in Using E-Money Using the Unified Theory of Acceptance and Use of Technology (UTAUT) Method* <br />
+1. **2020** - *Understanding quotation extraction and attribution: towards automatic extraction of public figure’s statements for journalism in Indonesia* <br />
+   **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain <br />
+   **Global Knowledge, Memory and Communication** - DOI: [10.1108/GKMC-07-2020-0098](https://doi.org/10.1108/GKMC-07-2020-0098)
+2. **2019** - *Assessment of the Readiness of Micro, Small and Medium Enterprises in Using E-Money Using the Unified Theory of Acceptance and Use of Technology (UTAUT) Method* <br />
    Hendro Gunawan, Benyamin Langgu Sinaga, **Sigit Purnomo W.P.** <br />
    **Procedia Computer Science 161, 316-323** - DOI: [10.1016/j.procs.2019.11.129](https://doi.org/10.1016/j.procs.2019.11.129)
-2. **2019** - *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
+3. **2019** - *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
    **Yohanes Sigit Purnomo W.P.**, Theresia Devi Indriasari, Kusworo Anindito, Yoshua Andrean, Jaka Galih Prasetyo <br />
    **International Journal of Interactive Mobile Technologies (iJIM) 13 (09), 52-65** - DOI: [10.3991/ijim.v13i09.10172](https://doi.org/10.3991/ijim.v13i09.10172)
 
