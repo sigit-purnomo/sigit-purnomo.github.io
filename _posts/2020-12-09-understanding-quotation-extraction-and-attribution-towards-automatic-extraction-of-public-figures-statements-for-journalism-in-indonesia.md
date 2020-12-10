@@ -9,6 +9,8 @@ tags: [computational-journalism]
 
 This is my first publication as a PhD student at Fakulti Teknologi Maklumat dan Komunikasi, Universiti Teknikal Malaysia Melaka.
 
+**Authors:**  Yohanes Sigit Purnomo W.P., Yogan Jaya Kumar, Nur Zareen Zulkarnain
+
 **Language:** English
 
 **Abstract:** <br />
