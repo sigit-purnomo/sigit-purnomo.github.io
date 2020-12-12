@@ -7,7 +7,7 @@ categories: [publication]
 tags: [computational-journalism]
 ---
 
-This is my first publication as a PhD student at Fakulti Teknologi Maklumat dan Komunikasi, Universiti Teknikal Malaysia Melaka.
+This is my first publication as a PhD student at Fakulti Teknologi Maklumat dan Komunikasi, Universiti Teknikal Malaysia Melaka. This article published in [Global Knowledge, Memory and Communication Journal](https://www.scimagojr.com/journalsearch.php?q=21100895684&tip=sid&clean=0) from Emerald Group Publishing Ltd.
 
 **Authors:**  Yohanes Sigit Purnomo W.P., Yogan Jaya Kumar, Nur Zareen Zulkarnain
 
