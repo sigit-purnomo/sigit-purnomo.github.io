@@ -28,5 +28,5 @@ The paper serves as a guideline to formulate a framework for statement extractio
 
 **Keywords:** Journalism, Online News, Corpus Development, Indonesian Language, Quotation Extraction, Quotation Attribution, Statement Extraction
 
-**DOI**: [10.1108/GKMC-07-2020-0098](https://www.emerald.com/insight/content/doi/10.1108/GKMC-07-2020-0098/full/html)
+**DOI**: [10.1108/GKMC-07-2020-0098](https://doi.org/10.1108/GKMC-07-2020-0098)
 
