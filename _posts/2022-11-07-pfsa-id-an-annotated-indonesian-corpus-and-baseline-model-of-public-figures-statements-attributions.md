@@ -30,3 +30,5 @@ To the best of the authors’ knowledge, the resulting corpus is the first corpu
 
 **DOI**: [10.1108/GKMC-04-2022-0091](https://doi.org/10.1108/GKMC-04-2022-0091)
 
+**GITHUB REPOSITORY**: [https://github.com/sigit-purnomo/pfsa-id](https://github.com/sigit-purnomo/pfsa-id)
+
