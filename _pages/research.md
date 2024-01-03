@@ -10,10 +10,11 @@ sitemap: true
 modified: 2020-04-25
 ---
 
-As a lecturer, one of my tasks is doing research. My current research interest is **computational journalism** using *natural language processing, machine learning, or deep learning technology*. My previous researches were related to **disaster management, social network analysis, information technology management, and platform-based application development**.
+As a lecturer, one of my tasks is doing research. My research interests include **natural language processing, machine learning, and deep learning technology** applied in many specific domains, such as computational journalism. My previous research was related to **disaster management, social network analysis, information technology management, and platform-based application development**.
 
 |  Year       | Research Title | Source of Funding |
 | :---------: | -------------- | ----------------- |
+| 2019-2023   | Extraction And Attribution of Public Figures Statements for Journalism in Indonesia Using Deep Learning |
 | 2017-2018   | Development of Crime Information Center and Location-aware System Services for Crime Actions | Indonesian’s Directorate General of Research and Development Strengthening, Ministry of Research, Technology and Higher Education |
 | 2015-2016   | Analysis and Design of Application for Natural Disasters Refugees Data Collection using SMS Gateway and Location-Based Service (LBS) | Indonesian’s Directorate General of Higher Education |
 | 2015-2016   | Development of Village and Integrated Rural Areas Information Systems in Accordance with Village Development Goals in the Village Law Number 6/2014 | Indonesian’s Directorate General of Higher Education |
