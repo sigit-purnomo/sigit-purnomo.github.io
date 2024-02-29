@@ -13,15 +13,15 @@ modified: 2020-05-04
 As a lecturer, one of my tasks is to publish articles on journals or conferences based on my research. Here some of my publications in collaboration with my colleague and students.
 
 #### International Journal
-1. **2024** - *Extraction and attribution of public figures statements for journalism in Indonesia using deep learnin* <br />
+1. **2024** - *Extraction and attribution of public figures statements for journalism in Indonesia using deep learning* <br />
    **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain, Basit Raza <br />
-   **Knowledge-Based System** - DOI: [10.1016/j.knosys.2024.111558](https://doi.org/10.1016/j.knosys.2024.111558)
+   **Knowledge-Based System, Volume 289, 8 April 2024, 111558** - DOI: [10.1016/j.knosys.2024.111558](https://doi.org/10.1016/j.knosys.2024.111558)
 2. **2022** - *PFSA-ID: An Annotated Indonesian Corpus and Baseline Model of Public Figures Statements Attributions* <br />
    **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain <br />
    **Global Knowledge, Memory and Communication** - DOI: [10.1108/GKMC-04-2022-0091](https://doi.org/10.1108/GKMC-04-2022-0091)
 3. **2020** - *Understanding quotation extraction and attribution: towards automatic extraction of public figure’s statements for journalism in Indonesia* <br />
    **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain <br />
-   **Global Knowledge, Memory and Communication** - DOI: [10.1108/GKMC-07-2020-0098](https://doi.org/10.1108/GKMC-07-2020-0098)
+   **Global Knowledge, Memory and Communication, Vol. 70 No. 6/7, pp. 655-671** - DOI: [10.1108/GKMC-07-2020-0098](https://doi.org/10.1108/GKMC-07-2020-0098)
 4. **2019** - *Assessment of the Readiness of Micro, Small and Medium Enterprises in Using E-Money Using the Unified Theory of Acceptance and Use of Technology (UTAUT) Method* <br />
    Hendro Gunawan, Benyamin Langgu Sinaga, **Sigit Purnomo W.P.** <br />
    **Procedia Computer Science 161, 316-323** - DOI: [10.1016/j.procs.2019.11.129](https://doi.org/10.1016/j.procs.2019.11.129)
