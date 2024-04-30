@@ -68,15 +68,15 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
 8. **2014** - *Pengembangan Prototype E-Directory Batik Berbasis Mobile Web dan Location Based-Service* <br />
    **Yohanes Sigit Purnomo WP**, Kusworo Anindito, Theresia Devi Indriasari, Suyoto Suyoto<br />
    **Jurnal Buana Informatika 5 (1)** - DOI: [10.24002/jbi.v5i1.344](https://doi.org/10.24002/jbi.v5i1.344)
+9. **2012** - *Analisis dan Perancangan Alat Bantu Monitor Brand Universitas Atma Jaya Yogyakarta di Situs Jejaring Sosial Twitter* <br />
+   **Yohanes Sigit Purnomo WP**, Findra Kartika Sari<br />
+   **Jurnal Buana Informatika 3 (1)** - DOI: [10.24002/jbi.v3i1.316](https://doi.org/10.24002/jbi.v3i1.316)
 
 #### Indonesian Seminar/Conference (Article in Indonesian Language)
 1. **2015** - *Sistem Pakar Berbasis Mobile Untuk Membantu Mendiagnosis Penyakit Akibat Gigitan Nyamuk* <br />
    Emanuel Safirman Bata, **Y Sigit Purnomo WP**, Ernawati Ernawati<br />
    **Seminar Nasional Informatika (SEMNASIF) 1 (3)** - LINK: [Article](http://jurnal.upnyk.ac.id/index.php/semnasif/article/view/1044)
-2. **2015** - *Pengembangan Mobile Learning Grammar Imbuhan Bahasa Indonesia Untuk Orang Asing* <br />
-   Mariam Coulibaly, Suyoto Suyoto, **Sigit Purnomo**<br />
-   **SEMNASTEKNOMEDIA ONLINE 3 (1), 4-4-7** - LINK: [Article](https://www.ojs.amikom.ac.id/index.php/semnasteknomedia/article/view/943)
-3. **2014** - *Pembangunan Perangkat Lunak Peringkas Dokumen dari Banyak Sumber Menggunakan Sentence Scoring dengan Metode TF-IDF* <br />
+2. **2014** - *Pembangunan Perangkat Lunak Peringkas Dokumen dari Banyak Sumber Menggunakan Sentence Scoring dengan Metode TF-IDF* <br />
    Fabianus Hendy Evan, **Y Sigit Purnomo WP**, Pranowo Pranowo<br />
    **Seminar Nasional Aplikasi Teknologi Informasi (SNATI) 1 (1)** - LINK: [Article](https://journal.uii.ac.id/Snati/article/view/3286)
 
