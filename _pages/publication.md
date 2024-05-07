@@ -79,6 +79,10 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
 2. **2014** - *Pembangunan Perangkat Lunak Peringkas Dokumen dari Banyak Sumber Menggunakan Sentence Scoring dengan Metode TF-IDF* <br />
    Fabianus Hendy Evan, **Y Sigit Purnomo WP**, Pranowo Pranowo<br />
    **Seminar Nasional Aplikasi Teknologi Informasi (SNATI) 1 (1)** - LINK: [Article](https://journal.uii.ac.id/Snati/article/view/3286)
-
-
+3. **2012** - *Pembangunan Sistem Informasi Geografis Pemantau Kepadatan Jaringan BTS dengan Konsep Indexing Spatio-Temporal Data Warehouse* <br />
+   Ellen Kesuma Dewi , Irya Wisnubhadra, **Y.Sigit Purnomo W.P.**<br />
+   **Seminar Nasional Teknologi Informasi dan Komunikasi (SENTIKA) 2012** - LINK: [Article](https://e-journal.uajy.ac.id/31607/)
+4. **2012** - *Perancangan Aplikasi Mobile City Directory Yogyakarta Berbasis Android* <br />
+   I Gusti Ngurah Darma Paramartha, **Y. Sigit Purnomo W.P.**, Kusworo Anindito<br />
+   **Seminar Nasional Teknologi Informasi dan Komunikasi (SENTIKA) 2012** - LINK: [Article](https://e-journal.uajy.ac.id/9302/)
 
