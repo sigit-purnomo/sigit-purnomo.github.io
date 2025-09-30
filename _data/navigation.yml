@@ -6,6 +6,8 @@ main:
     url: /research/
   - title: "Publication"
     url: /publication/
+  - title: "Talks"
+    url: /talks/
   - title: "Blog"
     url: /categories/
     
