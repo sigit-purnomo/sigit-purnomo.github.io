@@ -21,5 +21,5 @@ As a lecturer, one of my tasks is giving a talks in academic forums. Here some o
    PPT: [How to Do AI Research?](https://github.com/sigit-purnomo/sigit-purnomo.github.io/blob/master/assets/slides/How%20to%20Do%20AI%20Research?.pdf)
    
 3. **2025** - *Foundation* <br />
-   Talks Session 1 Episode 2: Foundation, Informatics Master Program, Universitas Atma Jaya Yogyakarta, June 05, 2025  <br />
+   TALKS (The Academic Learning & Knowledge Series) Session 1 Episode 2: Foundation, Informatics Master Program, Universitas Atma Jaya Yogyakarta, June 05, 2025  <br />
    PPT: [Foundation](https://github.com/sigit-purnomo/sigit-purnomo.github.io/blob/master/assets/slides/Talks%20Foundation.pdf)
