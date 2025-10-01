@@ -26,4 +26,4 @@ As a lecturer, one of my tasks is giving a talks in academic forums. Here some o
    
 3. **2025** - *The Potential of Using Artificial Intelligence (AI) to Support the Guidance and Counseling Process* <br />
    Guidance and Counseling Teachers' Conference (MGBK) for Senior High Schools/Islamic Senior High Schools in Sleman Regency, Partnership and Promotion Office, Universitas Atma Jaya Yogyakarta, April 23, 2025  <br />
-   PPT: [Foundation](https://github.com/sigit-purnomo/sigit-purnomo.github.io/blob/master/assets/slides/The Potential%20of%20AI%20for%20Guidance%20and%20Counseling.pdf)
+   PPT: [The Potential of Using Artificial Intelligence (AI) to Support the Guidance and Counseling Process](https://github.com/sigit-purnomo/sigit-purnomo.github.io/blob/master/assets/slides/The Potential%20of%20AI%20for%20Guidance%20and%20Counseling.pdf)
