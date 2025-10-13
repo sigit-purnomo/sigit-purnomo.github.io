@@ -14,6 +14,10 @@ As a lecturer, one of my tasks is doing research. My research interests include 
 
 |  Year       | Research Title | Source of Funding |
 | :---------: | -------------- | ----------------- |
+| 2025-2026   | Gen-Z Information Literacy Model in Countering Social Media Disinformation in the Era of Disruptive AI | Ministry of Higher Education, Science, and Technology Republic of Indonesia |
+| 2024-2025   | The Use of Machine Learning and Deep Learning for Student Peer Review Data Classification | Universitas Atma Jaya Yogyakarta |
+| 2024-2025	  | Systematics of Literature Review: The Use of Machine Learning in Students' Peer Review Activities | Universitas Atma Jaya Yogyakarta |
+| 2024-2025	  | Improving The Capacity of Indonesian Digital Creators in Writing Social Media Content with A Quality Journalism Model | Kedaireka Matching Fund Program  |
 | 2019-2023   | Extraction And Attribution of Public Figures Statements for Journalism in Indonesia Using Deep Learning | Universitas Atma Jaya Yogyakarta (Ph.D. Research) |
 | 2017-2018   | Development of Crime Information Center and Location-aware System Services for Crime Actions | Indonesian’s Directorate General of Research and Development Strengthening, Ministry of Research, Technology and Higher Education |
 | 2015-2016   | Analysis and Design of Application for Natural Disasters Refugees Data Collection using SMS Gateway and Location-Based Service (LBS) | Indonesian’s Directorate General of Higher Education |
