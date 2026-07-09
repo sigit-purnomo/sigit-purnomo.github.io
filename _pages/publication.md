@@ -7,28 +7,31 @@ header:
    image: /assets/images/browser_stats-pana.png
 author_profile: true
 sitemap: true
-modified: 2020-05-04
+modified: 2026-07-09
 ---
 
 As a lecturer, one of my tasks is to publish articles on journals or conferences based on my research. Here some of my publications in collaboration with my colleague and students.
 
 #### International Journal
-1. **2025** - *Factors Affecting Students’ Acceptance of Learning Simulation Tools in Computing Education Courses from Social, Technology, and Personal Trait Perspectives* <br />
+1. **2026** - *Automated Rubric-Based Classification of Student Peer Code Review Feedback* <br />
+   Theresia Devi Indriasari and **Yohanes Sigit Purnomo W.P.** <br />
+   **International Journal of Information and Education Technology, Vol. 16 No. 5, pp. 1298-1314** - DOI: [10.18178/ijiet.2026.16.5.2598](https://doi.org/10.18178/ijiet.2026.16.5.2598)
+2. **2025** - *Factors Affecting Students’ Acceptance of Learning Simulation Tools in Computing Education Courses from Social, Technology, and Personal Trait Perspectives* <br />
    Dri Handarkho, Y., Devi Indriasari, T., **Sigit Purnomo , Y.**, Kartika Sari Dewi, F., Yayu’ Palangan, C., Citrayasa, V. ., Gonzaga Pradnya, A., & Herlina.  <br />
    **Journal of Information and Organizational Sciences** - DOI: [10.31341/jios.49.2.6](https://doi.org/10.31341/jios.49.2.6)
-2. **2024** - *Extraction and attribution of public figures statements for journalism in Indonesia using deep learning* <br />
+3. **2024** - *Extraction and attribution of public figures statements for journalism in Indonesia using deep learning* <br />
    **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain, Basit Raza <br />
    **Knowledge-Based System, Volume 289, 8 April 2024, 111558** - DOI: [10.1016/j.knosys.2024.111558](https://doi.org/10.1016/j.knosys.2024.111558)
-3. **2022** - *PFSA-ID: An Annotated Indonesian Corpus and Baseline Model of Public Figures Statements Attributions* <br />
+4. **2022** - *PFSA-ID: An Annotated Indonesian Corpus and Baseline Model of Public Figures Statements Attributions* <br />
    **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain <br />
    **Global Knowledge, Memory and Communication** - DOI: [10.1108/GKMC-04-2022-0091](https://doi.org/10.1108/GKMC-04-2022-0091)
-4. **2020** - *Understanding quotation extraction and attribution: towards automatic extraction of public figure’s statements for journalism in Indonesia* <br />
+5. **2020** - *Understanding quotation extraction and attribution: towards automatic extraction of public figure’s statements for journalism in Indonesia* <br />
    **Yohanes Sigit Purnomo W.P.**, Yogan Jaya Kumar, Nur Zareen Zulkarnain <br />
    **Global Knowledge, Memory and Communication, Vol. 70 No. 6/7, pp. 655-671** - DOI: [10.1108/GKMC-07-2020-0098](https://doi.org/10.1108/GKMC-07-2020-0098)
-5. **2019** - *Assessment of the Readiness of Micro, Small and Medium Enterprises in Using E-Money Using the Unified Theory of Acceptance and Use of Technology (UTAUT) Method* <br />
+6. **2019** - *Assessment of the Readiness of Micro, Small and Medium Enterprises in Using E-Money Using the Unified Theory of Acceptance and Use of Technology (UTAUT) Method* <br />
    Hendro Gunawan, Benyamin Langgu Sinaga, **Sigit Purnomo W.P.** <br />
    **Procedia Computer Science 161, 316-323** - DOI: [10.1016/j.procs.2019.11.129](https://doi.org/10.1016/j.procs.2019.11.129)
-6. **2019** - *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
+7. **2019** - *CrimeID: Towards Crime Prevention and Community Safety in Indonesia using Mobile and Web Technology* <br />
    **Yohanes Sigit Purnomo W.P.**, Theresia Devi Indriasari, Kusworo Anindito, Yoshua Andrean, Jaka Galih Prasetyo <br />
    **International Journal of Interactive Mobile Technologies (iJIM) 13 (09), 52-65** - DOI: [10.3991/ijim.v13i09.10172](https://doi.org/10.3991/ijim.v13i09.10172)
 
@@ -47,31 +50,34 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
    **2015 International Conference on Data and Software Engineering (ICoDSE), 31-36** -  DOI: [10.1109/ICODSE.2015.7436967](https://doi.org/10.1109/ICODSE.2015.7436967)
    
 #### Indonesian Journal (Article in Indonesian Language)
-1. **2020** - *Pembangunan Aplikasi Identifikasi Typographical Error Dokumen Berbahasa Indonesia Menggunakan Algoritma Jaro-Winkler Distance* <br />
+1. **2026** - *Leveraging Machine Learning in Student Peer Review: A Systematic Literature Review* <br />
+   Theresia Devi Indriasari, **Yohanes Sigit Purnomo W.P.** <br />
+   **Jurnal Buana Informatika, Vol. 17 No. 1, pp. 76-94** - DOI: [10.24002/jbi.v17i1.14753](https://doi.org/10.24002/jbi.v17i1.14753)
+2. **2020** - *Pembangunan Aplikasi Identifikasi Typographical Error Dokumen Berbahasa Indonesia Menggunakan Algoritma Jaro-Winkler Distance* <br />
    Grelly Lucia Yovellia Londo, **Yohanes Sigit Purnomo W.P.**, Martinus Maslim <br />
    **JUITA : Jurnal Informatika 8 (1), 19-27** - DOI: [10.30595/juita.v8i1.6344](https://doi.org/10.30595/juita.v8i1.6344)
-2. **2019** - *Klasifikasi Ujaran Kebencian pada Cuitan dalam Bahasa Indonesia* <br />
+3. **2019** - *Klasifikasi Ujaran Kebencian pada Cuitan dalam Bahasa Indonesia* <br />
    Kevin Antariksa, **Y Sigit Purnomo WP**, Ernawati Ernawati<br />
    **Jurnal Buana Informatika 10 (2), 164-171** - DOI: [10.24002/jbi.v10i2.2451](https://doi.org/10.24002/jbi.v10i2.2451)
-3. **2019** - *Pembangunan Aplikasi Alat Bantu Proses Anotasi Menggunakan Progressive Web Apps* <br />
+4. **2019** - *Pembangunan Aplikasi Alat Bantu Proses Anotasi Menggunakan Progressive Web Apps* <br />
    I Gede Bagus Artha Suryawan, **Y. Sigit Purnomo WP**, Ernawati Ernawati <br />
    **Jurnal Buana Informatika 10 (2), 144-152** - DOI: [10.24002/jbi.v10i2.2380](https://doi.org/10.24002/jbi.v10i2.2380)
-4. **2018** - *Analisis Kesuksesan Sistem Informasi Kemahasiswaan (SIKMA) dengan Pendekatan Model DeLone dan McLean* <br />
+5. **2018** - *Analisis Kesuksesan Sistem Informasi Kemahasiswaan (SIKMA) dengan Pendekatan Model DeLone dan McLean* <br />
    Flourensia Sapty Rahayu, Robert Apriliyanto, **Yohanes Sigit Purnomo Wuryo Putro** <br />
    **Indonesian Journal of Information Systems 1 (1), 34-46** - DOI: [10.24002/ijis.v1i1.1704](https://doi.org/10.24002/ijis.v1i1.1704)
-5. **2017** - *Analisis Manfaat Sistem Informasi Penerimaan Mahasiswa Baru dengan Metode IT Balanced Scorecard* <br />
+6. **2017** - *Analisis Manfaat Sistem Informasi Penerimaan Mahasiswa Baru dengan Metode IT Balanced Scorecard* <br />
    Flourensia Sapty Rahayu, Rangga Deputra Ginantaka, **Y Sigit Purnomo WP**<br />
    **Jurnal Terapan Teknologi Informasi 1 (2), 99-108** - DOI: [10.21460/jutei.2017.12.21](https://doi.org/10.21460/jutei.2017.12.21)
-6. **2016** - *Perancangan Antarmuka Online Course Pada Perangkat Mobile Menggunakan Teori Usability* <br />
+7. **2016** - *Perancangan Antarmuka Online Course Pada Perangkat Mobile Menggunakan Teori Usability* <br />
    Elia Zakharia, Djoko Budiyanto Setyohadi, **Y Sigit Purnomo WP**<br />
    **Jurnal Informatika 12 (1)** - LINK: [Article](http://garuda.ristekbrin.go.id/documents/detail/876465)
-7. **2015** - *Pengembangan Aplikasi Layanan Informasi Wisata Budaya Yogyakarta Berbasis Mobile Web dan Location-Based Service Secara Kolaboratif* <br />
+8. **2015** - *Pengembangan Aplikasi Layanan Informasi Wisata Budaya Yogyakarta Berbasis Mobile Web dan Location-Based Service Secara Kolaboratif* <br />
    Kusworo Anindito, Eddy Julianto, **Yohanes Sigit Purnomo WP**<br />
    **Jurnal Buana Informatika 6 (1)** - DOI: [10.24002/jbi.v6i1.397](https://doi.org/10.24002/jbi.v6i1.397)
-8. **2014** - *Pengembangan Prototype E-Directory Batik Berbasis Mobile Web dan Location Based-Service* <br />
+9. **2014** - *Pengembangan Prototype E-Directory Batik Berbasis Mobile Web dan Location Based-Service* <br />
    **Yohanes Sigit Purnomo WP**, Kusworo Anindito, Theresia Devi Indriasari, Suyoto Suyoto<br />
    **Jurnal Buana Informatika 5 (1)** - DOI: [10.24002/jbi.v5i1.344](https://doi.org/10.24002/jbi.v5i1.344)
-9. **2012** - *Analisis dan Perancangan Alat Bantu Monitor Brand Universitas Atma Jaya Yogyakarta di Situs Jejaring Sosial Twitter* <br />
+10. **2012** - *Analisis dan Perancangan Alat Bantu Monitor Brand Universitas Atma Jaya Yogyakarta di Situs Jejaring Sosial Twitter* <br />
    **Yohanes Sigit Purnomo WP**, Findra Kartika Sari<br />
    **Jurnal Buana Informatika 3 (1)** - DOI: [10.24002/jbi.v3i1.316](https://doi.org/10.24002/jbi.v3i1.316)
 
