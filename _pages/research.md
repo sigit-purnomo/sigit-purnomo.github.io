@@ -7,25 +7,26 @@ header:
   image: /assets/images/data_report-pana.png
 author_profile: true
 sitemap: true
-modified: 2020-04-25
+modified: 2026-07-15
 ---
 
 As a lecturer, one of my tasks is doing research. My research interests include **natural language processing, machine learning, and deep learning technology** applied in many specific domains, such as computational journalism. My previous research was related to **disaster management, social network analysis, information technology management, and platform-based application development**.
 
-|  Year       | Research Title | Source of Funding |
-| :---------: | -------------- | ----------------- |
-| 2025-2026   | Gen-Z Information Literacy Model in Countering Social Media Disinformation in the Era of Disruptive AI | Ministry of Higher Education, Science, and Technology Republic of Indonesia |
-| 2024-2025   | The Use of Machine Learning and Deep Learning for Student Peer Review Data Classification | Universitas Atma Jaya Yogyakarta |
-| 2024-2025	  | Systematics of Literature Review: The Use of Machine Learning in Students' Peer Review Activities | Universitas Atma Jaya Yogyakarta |
-| 2024-2025	  | Improving The Capacity of Indonesian Digital Creators in Writing Social Media Content with A Quality Journalism Model | Kedaireka Matching Fund Program  |
-| 2019-2023   | Extraction And Attribution of Public Figures Statements for Journalism in Indonesia Using Deep Learning | Universitas Atma Jaya Yogyakarta (Ph.D. Research) |
-| 2017-2018   | Development of Crime Information Center and Location-aware System Services for Crime Actions | Indonesian’s Directorate General of Research and Development Strengthening, Ministry of Research, Technology and Higher Education |
-| 2015-2016   | Analysis and Design of Application for Natural Disasters Refugees Data Collection using SMS Gateway and Location-Based Service (LBS) | Indonesian’s Directorate General of Higher Education |
-| 2015-2016   | Development of Village and Integrated Rural Areas Information Systems in Accordance with Village Development Goals in the Village Law Number 6/2014 | Indonesian’s Directorate General of Higher Education |
-| 2013-2014   | Development of Collaborative Information Services for Yogyakarta Cultural Tourism using Mobile Web and Location-Based Service  | Indonesian’s Directorate General of Higher Education |
-| 2013-2014   | Development of Batik E-Directory using Mobile Web and Location-Based Services as an Effort to Preserve Yogyakarta and Surakarta Batik  | Indonesian’s Directorate General of Higher Education |
-| 2012          | Analysis and Design of Community Finder Tools using Social Network Analysis and Visualization Methodology  | Universitas Atma Jaya Yogyakarta |
-| 2011          | Analysis and Design of UAJY Brand Monitoring Tools in Twitter Social Network  | Universitas Atma Jaya Yogyakarta |
-| 2010          | Development of Integration Tools for E-Learning System and Academic Information System (Case Study: Universitas Atma Jaya Yogyakarta)  | Universitas Atma Jaya Yogyakarta |
-| 2010          | Development of Mobile and Web-based Software for Collaborative Descriptive Location Geocoding Process   | Universitas Atma Jaya Yogyakarta |
-| 2008          | Development of Internet Services for Antivirus Application using Web Services   | Universitas Atma Jaya Yogyakarta |
+|  Year       | Research Title | Source of Funding | Level |
+| :---------: | -------------- | ----------------- | ----- |
+| 2026-2027 | Strengthening Biodiversity Journalism through Academic-Media Collaboration | United Board for Christian Higher Education in Asia - Faculty Development Grants on Integrated Scholarship for Environmental Sustainability | International Grant |
+| 2025-2026 | Gen-Z Information Literacy Model in Countering Social Media Disinformation in the Era of Disruptive AI | Ministry of Higher Education, Science, and Technology Republic of Indonesia | National Grant |
+| 2024-2025 | The Use of Machine Learning and Deep Learning for Student Peer Review Data Classification | Universitas Atma Jaya Yogyakarta | Local Grant |
+| 2024-2025 | Systematics of Literature Review: The Use of Machine Learning in Students' Peer Review Activities | Universitas Atma Jaya Yogyakarta | Local Grant |
+| 2024-2025 | Improving The Capacity of Indonesian Digital Creators in Writing Social Media Content with A Quality Journalism Model | Kedaireka Matching Fund Program | National Grant |
+| 2019-2023 | Extraction And Attribution of Public Figures Statements for Journalism in Indonesia Using Deep Learning | Universitas Atma Jaya Yogyakarta (Ph.D. Research) | Local Grant |
+| 2017-2018 | Development of Crime Information Center and Location-aware System Services for Crime Actions | Indonesian’s Directorate General of Research and Development Strengthening, Ministry of Research, Technology and Higher Education | National Grant |
+| 2015-2016 | Analysis and Design of Application for Natural Disasters Refugees Data Collection using SMS Gateway and Location-Based Service (LBS) | Indonesian’s Directorate General of Higher Education | National Grant |
+| 2015-2016 | Development of Village and Integrated Rural Areas Information Systems in Accordance with Village Development Goals in the Village Law Number 6/2014 | Indonesian’s Directorate General of Higher Education | National Grant |
+| 2013-2014 | Development of Collaborative Information Services for Yogyakarta Cultural Tourism using Mobile Web and Location-Based Service | Indonesian’s Directorate General of Higher Education | National Grant |
+| 2013-2014 | Development of Batik E-Directory using Mobile Web and Location-Based Services as an Effort to Preserve Yogyakarta and Surakarta Batik | Indonesian’s Directorate General of Higher Education | National Grant |
+| 2012 | Analysis and Design of Community Finder Tools using Social Network Analysis and Visualization Methodology | Universitas Atma Jaya Yogyakarta | Local Grant |
+| 2011 | Analysis and Design of UAJY Brand Monitoring Tools in Twitter Social Network | Universitas Atma Jaya Yogyakarta | Local Grant |
+| 2010 | Development of Integration Tools for E-Learning System and Academic Information System (Case Study: Universitas Atma Jaya Yogyakarta) | Universitas Atma Jaya Yogyakarta | Local Grant |
+| 2010 | Development of Mobile and Web-based Software for Collaborative Descriptive Location Geocoding Process | Universitas Atma Jaya Yogyakarta | Local Grant |
+| 2008 | Development of Internet Services for Antivirus Application using Web Services | Universitas Atma Jaya Yogyakarta | Local Grant |
