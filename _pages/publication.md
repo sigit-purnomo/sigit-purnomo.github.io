@@ -14,7 +14,7 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
 
 #### International Journal
 1. **2026** - *Understanding Social-Cognitive-Norm Mechanisms Driving Disinformation Verification among Indonesian Young Adults on Social Media* <br />
-   Yonathan Dri Handarkho, Theresia Devi Indriasari, **Yohanes Sigit Purnomo W.P.** <br />
+   Yonathan Dri Handarkho, Theresia Devi Indriasari, **Yohanes Sigit Purnomo W.P.**, Citra Yayu' Palangan <br />
    **Computers in Human Behavior, Article 109115** - DOI: [10.1016/j.chb.2026.109115](https://doi.org/10.1016/j.chb.2026.109115)
 2. **2026** - *Automated Rubric-Based Classification of Student Peer Code Review Feedback* <br />
    Theresia Devi Indriasari and **Yohanes Sigit Purnomo W.P.** <br />
