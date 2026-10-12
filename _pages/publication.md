@@ -7,7 +7,7 @@ header:
    image: /assets/images/browser_stats-pana.png
 author_profile: true
 sitemap: true
-modified: 2026-07-21
+modified: 2026-10-12
 ---
 
 As a lecturer, one of my tasks is to publish articles on journals or conferences based on my research. Here some of my publications in collaboration with my colleague and students.
@@ -42,16 +42,19 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
    **International Journal of Interactive Mobile Technologies (iJIM) 13 (09), 52-65** - DOI: [10.3991/ijim.v13i09.10172](https://doi.org/10.3991/ijim.v13i09.10172)
 
 #### International Conference
-1. **2019** - *The Classification of the Movie Genre based on Synopsis of the Indonesian Film*<br />
+1. **2026** - *When Classical Models Compete with Deep Learning: A Semantic Label Transformation for Peer Feedback Classification* <br />
+   **Yohanes Sigit Purnomo W.P.**, Theresia Devi Indriasari <br />
+   **2026 International Conference on Information Technology and Computing (ICITCOM), IEEE** - DOI: [10.1109/ICITCOM70739.2026.11714417](https://doi.org/10.1109/ICITCOM70739.2026.11714417)
+2. **2019** - *The Classification of the Movie Genre based on Synopsis of the Indonesian Film*<br />
    Antonius Christiyanto Saputra, Anjelina Br Sitepu, **Yohanes Sigit Purnomo WP**, Pius Guiseppe Sarto Aji Tetuko, Giovani Christian Nugroho <br />
    **2019 International Conference of Artificial Intelligence and Information Technology (ICAIIT), 201-204** - DOI: [10.1109/ICAIIT.2019.8834606](https://doi.org/10.1109/ICAIIT.2019.8834606)
-2. **2019** - *A Study of Text Classification for Indonesian News Article*<br />
+3. **2019** - *A Study of Text Classification for Indonesian News Article*<br />
    Grelly Lucia Yovellia Londo, Dwiky Hutomo Kartawijaya, Hesti Tri Ivariyani, **Yohanes Sigit Purnomo WP**, Aryasuta P Muhammad Rafi, Dipo Ariyandi <br />
    **2019 International Conference of Artificial Intelligence and Information Technology (ICAIIT), 205-208** - DOI: [10.1109/ICAIIT.2019.8834611](https://doi.org/10.1109/ICAIIT.2019.8834611)
-3. **2017** - *Information technology governance assessment in universitas atma jaya yogyakarta using cobit 5 framework* <br />
+4. **2017** - *Information technology governance assessment in universitas atma jaya yogyakarta using cobit 5 framework* <br />
    Gabriella Sabatini, Djoko Budiyanto Setyohadi, **Yohanes Sigit Purnomo W.P.** <br />
    **2017 4th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI), 1-5** - DOI: [10.1109/EECSI.2017.8239161](https://doi.org/10.1109/EECSI.2017.8239161)
-4. **2015** - *A study of disaster situation management using mobile technology in Yogyakarta* <br />
+5. **2015** - *A study of disaster situation management using mobile technology in Yogyakarta* <br />
    **Yohanes Sigit Purnomo W.P.**; Theresia Devi Indriasari ; Kusworo Anindito ; Irvan <br />
    **2015 International Conference on Data and Software Engineering (ICoDSE), 31-36** -  DOI: [10.1109/ICODSE.2015.7436967](https://doi.org/10.1109/ICODSE.2015.7436967)
    
