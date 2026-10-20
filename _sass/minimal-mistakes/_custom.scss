@@ -170,8 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .page__hero {
   margin-bottom: 2.5em;
-  background: linear-gradient(135deg, mix(#fff, $primary-color, 92%), mix(#fff, $accent-color, 88%));
-  border-bottom: 1px solid $border-color;
+  background: transparent;
 }
 
 .page__hero-image {
@@ -179,6 +178,28 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 340px;
   -o-object-fit: contain;
   object-fit: contain;
+}
+
+/* opt-in (header.image_fade: true): photo edges fade softly into the page
+   background so a full-bleed photo blends in like the illustrations do */
+// eased stops: only the outer edge fades, the subject stays fully sharp
+$hero-fade-x: linear-gradient(to right,
+  rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.15) 2.5%, rgba(0, 0, 0, 0.45) 5%,
+  rgba(0, 0, 0, 0.8) 8%, #000 11%, #000 89%, rgba(0, 0, 0, 0.8) 92%,
+  rgba(0, 0, 0, 0.45) 95%, rgba(0, 0, 0, 0.15) 97.5%, rgba(0, 0, 0, 0) 100%);
+$hero-fade-y: linear-gradient(to bottom,
+  rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 2%, rgba(0, 0, 0, 0.75) 5%,
+  #000 8%, #000 90%, rgba(0, 0, 0, 0.75) 94%, rgba(0, 0, 0, 0.3) 97.5%,
+  rgba(0, 0, 0, 0) 100%);
+
+.page__hero-image--fade {
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  -webkit-mask-image: $hero-fade-x, $hero-fade-y;
+  -webkit-mask-composite: source-in;
+  mask-image: $hero-fade-x, $hero-fade-y;
+  mask-composite: intersect;
 }
 
 /* Sidebar / author card
