@@ -5,6 +5,7 @@ excerpt: "About Me, Education, Research Interests, Teaching Experiences, Fellows
 layout: single
 header:
   image: /assets/images/about_me-picture.png
+  image_fade: true # blend the photo edges into the page background
 author_profile: true
 sitemap: true
 modified: 2020-04-25
