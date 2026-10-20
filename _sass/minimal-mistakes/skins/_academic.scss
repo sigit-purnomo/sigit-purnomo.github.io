@@ -1,7 +1,7 @@
 /* ==========================================================================
    Academic skin
-   Modern, clean palette for a lecturer/academic site: deep navy primary,
-   warm gold accent, soft neutral surfaces.
+   Modern, clean palette based on the UAJY brand book (2020):
+   blue (C100 M50 Y0 K10), yellow (C0 M30 Y100 K0), black and white.
    ========================================================================== */
 
 /* Typography */
@@ -14,18 +14,18 @@ $header-font-family: $serif !default;
 $caption-font-family: $sans-serif !default;
 
 /* Colors */
-$academic-navy: #14325c !default;
-$academic-blue: #1f5fa8 !default;
-$academic-gold: #c8963e !default;
+$academic-navy: #1a3d73 !default; // darker UAJY blue for hover/depth
+$academic-blue: #245399 !default; // UAJY blue
+$academic-gold: #eda60e !default; // UAJY yellow
 
 $background-color: #f7f8fb !default;
-$text-color: #1f2937 !default;
+$text-color: #231f20 !default; // UAJY black (softened for body text)
 $muted-text-color: #6b7280 !default;
-$primary-color: $academic-navy !default;
+$primary-color: $academic-blue !default;
 $border-color: #e5e7eb !default;
 $code-background-color: #f1f4f9 !default;
 $form-background-color: #ffffff !default;
-$footer-background-color: $academic-navy !default;
+$footer-background-color: $academic-blue !default;
 $link-color: $academic-blue !default;
 $link-color-hover: $academic-navy !default;
 $link-color-visited: $academic-blue !default;
