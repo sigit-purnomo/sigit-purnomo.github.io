@@ -185,6 +185,10 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 .sidebar {
+  .author__avatar-hover {
+    display: none; // only used on large screens
+  }
+
   .author__avatar img {
     max-width: 150px;
     padding: 4px;
@@ -216,6 +220,60 @@ h1, h2, h3, h4, h5, h6 {
     &.sticky {
       top: 5.5em;
     }
+
+    /* centered profile header */
+    .author__avatar {
+      position: relative;
+      width: 150px;
+      margin: 0 auto;
+      text-align: center;
+
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+
+      /* second photo that fades in on hover */
+      .author__avatar-hover {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.35s ease;
+      }
+
+      &:hover .author__avatar-hover {
+        opacity: 1;
+      }
+    }
+
+    .author__content {
+      text-align: center;
+    }
+
+    /* divider between the bio and the link list */
+    .author__urls-wrapper {
+      display: block;
+      margin-top: 1.25em;
+      padding-top: 0; // the location item carries equal spacing above and below
+      border-top: 1px solid $border-color;
+    }
+  }
+}
+
+.author__urls li[itemprop="homeLocation"] {
+  padding: 0.9em 0.6em; // equal space to the dividers above and below
+  color: $muted-text-color;
+  font-size: 0.7125em; // same size as the link items (0.75em * 0.95)
+  /* divider between the location and the link list */
+  margin-bottom: 0.9em;
+  border-bottom: 1px solid $border-color;
+
+  i {
+    width: 1.4em;
+    margin-right: 0.4em;
+    color: $accent-color;
+    text-align: center;
   }
 }
 

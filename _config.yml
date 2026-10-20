@@ -96,6 +96,7 @@ analytics:
 author:
   name             : "Sigit Purnomo"
   avatar           : "/assets/images/profile-picture.jpeg"
+  avatar_hover     : "/assets/images/profile-picture-hover.jpg" # shown when the avatar is hovered
   bio              : "Senior Lecturer at Informatics Department, Universitas Atma Jaya Yogyakarta"
   location         : "Yogyakarta, Indonesia"
   email            :
