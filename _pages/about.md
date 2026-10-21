@@ -21,7 +21,7 @@ My name is Yohanes Sigit Purnomo W.P.. I am a **senior lecturer** at *Informatic
 2. *Bachelor of Engineering (S.T.)* -  Informatics Department, Faculty of Industrial Technology, Universitas Atma Jaya Yogyakarta, Yogyakarta, Indonesia
 
 #### Research Interests
-My research interests include **natural language processing, machine learning, and deep learning technology** that is applied in many specific domains, such as computational journalism. My previous research related to **disaster management, social network analysis, information technology management, and platform-based application development**.
+My research interests include **natural language processing, machine learning, and deep learning technology** that is applied in many specific domains, such as computational journalism. My previous research related to **disaster management, social network analysis, information technology management, and platform-based application development**. I am also part of the **Technology and Innovation for Culture, Education, Language, and Society (TICELS) Research Group** in Informatic Department.
 
 #### Teaching Experiences
 The fundamental courses I taught in the Informatics Department are related to topics such as **introduction to informatics engineering, operating systems, computer networks, human and computer interactions, and the development of web and mobile-based services**. Starting in 2018, I taught new topics such as **design thinking and creativity, machine learning and deep learning, and natural language processing**.
