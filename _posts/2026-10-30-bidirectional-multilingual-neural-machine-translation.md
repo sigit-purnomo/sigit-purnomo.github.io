@@ -13,10 +13,8 @@ This article was published in **Jurnal Buana Informatika**, Volume 17, Number 2 
 
 **Language:** English (article title and English abstract; the journal page also provides an Indonesian abstract)
 
-**Abstract (faithful summary):** <br />
-The study compares three Transformer-based neural machine translation architectures—mT5, ByT5, and NLLB—for translation in both directions between Indonesian and Javanese, Sundanese, Balinese, Minangkabau, and Dayak Maanyan. With approximately 4,000 aligned sentence pairs for each language, the experiments assess translation quality using BLEU and ChrF++. Across the architectures, bilingual baselines perform better than bidirectional multilingual configurations. NLLB shows the greatest resilience to this performance loss and reports the strongest result (BLEU 62.16; ChrF++ 79.93) within the controlled, domain-specific evaluation. The authors note that limited dataset sizes and the lack of human assessment constrain the conclusions.
-
-For the **original English and Indonesian abstracts**, see the [official article page](https://ojs.uajy.ac.id/index.php/jbi/article/view/15344).
+**Abstract:** <br />
+The limited digital linguistic resources for Indonesian regional languages remain a major obstacle to developing high-quality automatic translation systems. This study presents an empirical comparison of three multilingual Transformer based Neural Machine Translation (NMT) models, mT5, ByT5, and NLLB, for bidirectional translation between five Indonesian regional languages (Javanese, Sundanese, Balinese, Minangkabau, and Dayak Maanyan) and Indonesian under low-resource conditions. Using approximately 4,000 sentence pairs per language, the three models were evaluated with BLEU and ChrF++. Results show the bilingual baseline consistently outperformed the bidirectional multilingual approach across all three architectures, with NLLB proving most resilient to this degradation and achieving the strongest overall result (BLEU 62.16, ChrF++ 79.93) in controlled, domain-specific settings. This study contributes preliminary empirical evidence on architecture selection for low-resource regional language translation, constrained by dataset size and the absence of human evaluation.
 
 **Keywords:** Machine Translation, Multilingual, Neural Machine Translation, Regional Languages, Transformer, Bahasa Daerah
 
