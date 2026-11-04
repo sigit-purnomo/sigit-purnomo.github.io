@@ -60,7 +60,7 @@ As a lecturer, one of my tasks is to publish articles on journals or conferences
    
 #### Indonesian Journal (Article in Indonesian Language)
 1. **2026** - *Bidirectional Multilingual Neural Machine Translation Between Regional Languages and Indonesian with the Transformer Model* <br />
-   Frendy, **Yohanes Sigit Purnomo Wulyo Putro**, Martinus Maslim <br />
+   Frendy, **Yohanes Sigit Purnomo Wuryo Putro**, Martinus Maslim <br />
    **Jurnal Buana Informatika, Vol. 17 No. 2 (October 2026)** - DOI: [10.24002/jbi.v17i2.15344](https://doi.org/10.24002/jbi.v17i2.15344)
 2. **2026** - *Leveraging Machine Learning in Student Peer Review: A Systematic Literature Review* <br />
    Theresia Devi Indriasari, **Yohanes Sigit Purnomo W.P.** <br />
